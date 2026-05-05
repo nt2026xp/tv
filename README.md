@@ -55,9 +55,6 @@ CCTV-13 新闻,https://www.yangshipin.cn/tv/home?pid=600001811
 
 =================
 
-
-直播源 https://tv.iill.top/m3u/Gather
-
 TVBox配置接口解密 https://ua.fongmi.eu.org
 
 X https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
