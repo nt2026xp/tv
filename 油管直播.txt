@@ -1,4 +1,4 @@
-油管新聞,#genre#
+油管直播,#genre#
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
