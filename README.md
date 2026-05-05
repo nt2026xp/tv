@@ -1,3 +1,7 @@
+http://www.饭太硬.com/tv
+
+直播源   http://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
 EPG http://epg.dy2.fun:5678
 
 EPG https://epg.zsdc.eu.org/t.xml
