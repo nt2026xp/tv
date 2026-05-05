@@ -38,29 +38,14 @@ CCTV-13 新闻,https://www.yangshipin.cn/tv/home?pid=600001811
 
 =================
 
-螞蟻直播 http://rihou.cc:555/gggg.nzk
-
-直播源 https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/litv.m3u
-
-宫殿线路 https://gongdian.top/tv/iptv
 
 直播源 https://tv.iill.top/m3u/Gather
 
 TVBox配置接口解密 https://ua.fongmi.eu.org
 
-央視頻 http://43.156.8.127:5050/m3u
-
-路堯 https://000.hfr1107.top/live/
-
-路堯影視 https://000.hfr1107.top/live/路尧.json
-
 X https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
 
 ++++++++
-
-"rules": [{ "name": "ofiii", "hosts": ["www.ofiii.com"], "script": ["const play=document.getElementsByClassName('play_icon')[0],event=new MouseEvent('click',{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"] },
-
-++++++
 
 肥羊推荐的iptv替代品（机器人获取）：
 
@@ -71,8 +56,6 @@ https://t.me/mursorottiptv_bot
 UA：
 
 okHttp/Mod-1.5.0.0
-
-寶盒live https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
 
 ============================================
 
@@ -87,22 +70,6 @@ okHttp/Mod-1.5.0.0
 廣東衛視 https://www.gdtv.cn/tvChannelDetail/43
 
 ===========
-
-直播源論壇 https://bbs.livecodes.vip/forum.php?mod=forumdisplay&fid=6
-
-火星直播網頁 https://www.kds.tw
-
-4GTV網頁,#genre# parse=1
-
-1234,#genre#
-
-=============
-
-ipv4 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
-
-judy https://github.com/judy-gotv/iptv
-
-=============
 
 央視新聞,#genre#
 
@@ -205,7 +172,5 @@ Yang https://t.me/Y_anGGGGGG
 恩山訂閱 @NodeRSS_bot
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
-
-docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=wiidoowgrrmxnt0k4ko2wugugewengzt -userid=7234681260 -token=37a716309767df2068fa996995731bc3bf82bdce8762ad87a2c5bd79ff1352bcb35a185ccaf830e3a71951c34dd0a389627ee0798a8ef6b40c0052a976fc966ba32c7ad5642227
 
 刪除帳號 tg delete https://my.telegram.org/auth# tv
