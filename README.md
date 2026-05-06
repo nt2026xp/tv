@@ -1,3 +1,5 @@
+海豚影视  https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海豚影视
+
 佛繫收集，免費分享 https://yang-1989.eu.org
 
 電視直播 https://iptv.yang-1989.eu.org/m3u/Gather.m3u
