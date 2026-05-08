@@ -119,6 +119,8 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 
 ===============
 
+(垃圾群)酷9 https://t.me/Player_Ku9
+
 (垃圾群) 极致播放器交流群 https://t.me/jizhi00
 
 (垃圾群) GEEK https://t.me/geekiptv888
