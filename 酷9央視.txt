@@ -3,7 +3,7 @@
 CCTV1综合,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1/index.shtml
 CCTV2财经,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv2/index.shtml
 CCTV3综艺,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv3/index.shtml
-CCTV4中文国际（亚）,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv4/index.shtml
+CCTV4中文国际,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv4/index.shtml
 CCTV5体育,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5/index.shtml
 CCTV5+体育赛事,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5plus/index.shtml
 CCTV6电影,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv6/index.shtml
@@ -18,8 +18,8 @@ CCTV14少儿,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvchild/in
 CCTV15音乐,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv15/index.shtml
 CCTV16奥林匹克,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv16/index.shtml
 CCTV17农业农村,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv17/index.shtml
-CCTV4中文国际（欧）,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV4中文国际（美）,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvamerica/index.shtml
+CCTV4欧洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
+CCTV4美洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvamerica/index.shtml
 
 CCTV1综合,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600001859	
 CCTV2财经,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600001800	
