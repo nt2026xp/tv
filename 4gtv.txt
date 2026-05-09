@@ -1,3 +1,6 @@
+4gtv,#genre#
+parse=1
+
 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1			
 民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2			
 民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3			
@@ -23,7 +26,7 @@ Nick Jr. 兒童頻道,https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
 尼克兒童頻道,https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185			
 DreamWorks 夢工廠動畫,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282			
 靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15			
-靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59			
+靖洋卡通台,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59			
 MOMO親子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231			
 東森購物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173			
 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268			
@@ -31,9 +34,9 @@ MOMO親子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34			
 民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31			
 三立新聞iNEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229			
-TVBS新聞,https://www.4gtv.tv/channel/media-live072?set=1&ch=473			
+TVBS新聞台,https://www.4gtv.tv/channel/media-live072?set=1&ch=473			
 東森財經新聞台,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293			
-中視新聞,https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33			
+中視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33			
 中天新聞台,https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30			
 Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283			
 寰宇新聞台,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36			
@@ -87,7 +90,7 @@ CI 罪案偵查頻道,https://www.4gtv.tv/channel/4gtv-live027?set=1&ch=215
 金光布袋戲,https://www.4gtv.tv/channel/4gtv-live144?set=1&ch=236			
 ROCK Action,https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180			
 采昌影劇台,https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25			
-靖天映畫,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42			
+靖天映畫台,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42			
 靖天電影台,https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82			
 影迷數位電影台,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40			
 amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39			
