@@ -80,3 +80,17 @@ CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
 
+
+黑龍江,#genre#
+
+黑龍江衛視,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
+黑龍江影視,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljys
+黑龍江都市,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds
+黑龍江新聞法治,webview://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
+黑龍江文體,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
+黑龍江農業科教,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
+
+
+
+
+
