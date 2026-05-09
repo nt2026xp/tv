@@ -75,15 +75,13 @@ okHttp/Mod-1.5.0.0
 
 ============================================
 
-江蘇衛視 https://live.jstv.com
+江蘇衛視,https://live.jstv.com
 
-浙江衛視 https://www.cztv.com/liveTV
+浙江衛視,https://www.cztv.com/liveTV
 
-北京衛視 https://www.btime.com/btv
+北京衛視,https://www.btime.com/btv
 
-東方衛視 https://live.kankanews.com/huikan
-
-廣東衛視 https://www.gdtv.cn/tvChannelDetail/43
+東方衛視,https://live.kankanews.com/huikan
 
 ===========
 
