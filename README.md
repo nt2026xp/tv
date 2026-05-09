@@ -1,3 +1,15 @@
+江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com
+
+浙江衛視,http://A/ku9/js/webview.js?id=https://www.cztv.com/liveTV
+
+北京衛視,http://A/ku9/js/webview.js?id=https://www.btime.com/btv
+
+東方衛視,http://A/ku9/js/webview.js?id=https://live.kankanews.com/huikan
+
+
+
+
+
 海豚影视  https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海豚影视
 
 佛繫收集，免費分享 https://yang-1989.eu.org
