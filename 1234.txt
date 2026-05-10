@@ -81,14 +81,26 @@ CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
 
 
-黑龍江,#genre#
+63央視,#genre#
 
-黑龍江衛視,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
-黑龍江影視,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljys
-黑龍江都市,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds
-黑龍江新聞法治,webview://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
-黑龍江文體,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
-黑龍江農業科教,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
+cctv1綜合,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+cctv2財經,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+cctv3hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+cctv4中文國際hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+cctv5體育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+cctv5+體育賽事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+cctv6電影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+cctv7hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+cctv8電視劇,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+cctv9紀錄,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+cctv10科教,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+cctv11hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
+cctv12hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+cctv13新聞,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+cctv14hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+cctv15音樂,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+cctv16hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
+cctv17農業農村,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 
 
 
