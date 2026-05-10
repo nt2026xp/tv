@@ -83,24 +83,24 @@ CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 
 63央視,#genre#
 
-cctv1綜合,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-cctv2財經,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-cctv3hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-cctv4中文國際hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-cctv5體育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
-cctv5+體育賽事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-cctv6電影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
-cctv7hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-cctv8電視劇,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
-cctv9紀錄,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
-cctv10科教,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-cctv11hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
-cctv12hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
-cctv13新聞,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-cctv14hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-cctv15音樂,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-cctv16hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-cctv17農業農村,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+CCTV1综合,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+CCTV2财经,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+CCTV3综艺,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+CCTV4中文国际,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+CCTV5体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+CCTV5+体育赛事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+CCTV6电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+CCTV7国防军事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+CCTV8电视剧,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+CCTV9纪录,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+CCTV10科教,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+CCTV11戏曲,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
+CCTV12社会与法,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+CCTV13新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+CCTV14少儿,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+CCTV15音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+CCTV16奥林匹克,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
+CCTV17农业农村,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 
 
 
