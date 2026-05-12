@@ -18,13 +18,6 @@
 馬祖藍眼淚,https://www.youtube.com/watch?v=v1nkaJg1wJQ
 小琉球花瓶岩,https://www.youtube.com/watch?v=tIIe_JDfwHE
 
-報告班長1,https://www.youtube.com/watch?v=JufWQPmgTM0
-報告班長2,https://www.youtube.com/watch?v=Pwy8PFlaWP8
-報告班長3,https://www.youtube.com/watch?v=lJs8pSqGsxw
-報告班長4,https://www.youtube.com/watch?v=WDSVRY2V17Q
-號角響起,https://www.youtube.com/watch?v=MKtQxiMLleY
-
-
 MOD電視,#genre#
 
 CBeebies,udp://@224.1.4.213:11111
