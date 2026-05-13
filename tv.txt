@@ -16,7 +16,7 @@
 
 東森綜合2台,https://www.youtube.com/live/cimbpAZUjzw
 馬祖藍眼淚,https://www.youtube.com/watch?v=v1nkaJg1wJQ
-小琉球花瓶岩,https://www.youtube.com/watch?v=tIIe_JDfwHE
+
 
 MOD電視,#genre#
 
@@ -117,7 +117,9 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
 
+
 北海道函館山,https://www.youtube.com/watch?v=s--MDmshT3I
+大阪道頓堀,https://www.youtube.com/watch?v=v1iiYcesCUo
 東京歌舞伎町1,https://www.youtube.com/watch?v=DjdUEyjx8GM
 東京歌舞伎町2,https://www.youtube.com/watch?v=gFRtAAmiFbE
 
