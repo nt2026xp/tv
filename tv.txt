@@ -1,9 +1,7 @@
 
-
-
-
 蠟筆小新,#genre#
 
+東森幼幼,https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
 櫻桃小丸子,https://live.ottiptv.cc/huya/11342394
 
@@ -14,8 +12,6 @@
 柯南國語,https://live.ottiptv.cc/huya/30080148
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 
-綜藝一級棒,https://www.youtube.com/live/9gx5EIyHmsw
-飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=6TsaEYaKueE
 
 馬祖藍眼淚,https://www.youtube.com/watch?v=v1nkaJg1wJQ
@@ -78,6 +74,8 @@ TVBS精采台,udp://@230.1.2.35:11111
 
 台灣新聞,#genre#
 
+TVBS 新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/media-live072/index.m3u8
+東森新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
