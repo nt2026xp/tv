@@ -275,3 +275,4 @@ ua=okHttp/Mod-1.5.0.0
 小甜甜,#genre#
 
 小甜甜1,https://www.bilibili.com/video/BV1xW411a7vK/?spm_id_from=333.788.videopod.episodes
+小甜甜2,https://www.bilibili.com/video/BV1xW411a7vK/?spm_id_from=333.788.videopod.episodes&p2
