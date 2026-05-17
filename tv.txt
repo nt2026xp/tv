@@ -274,6 +274,6 @@ ua=okHttp/Mod-1.5.0.0
 
 小甜甜,#genre#
 
-小甜甜1,https://www.bilibili.com/video/BV1xW411a7vK/?spm_id_from=333.788.videopod.episodes
+小甜甜1,https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/06/75/27417506/27417506_da3-1-100022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&nbs=1&uipk=5&trid=e3f1b58ff7414ee6b667416aec96e4fu&oi=618794270&platform=pc&mid=0&deadline=1778996977&gen=playurlv3&os=cosovbv&og=hw&upsig=42cc6b2e2090f361eecf1639e4dbffa4&uparams=e,nbs,uipk,trid,oi,platform,mid,deadline,gen,os,og&bvc=vod&nettype=0&bw=181002&agrr=0&buvid=9367CBEB-6AFB-1588-7CDC-E4EC0F51093653289infoc&build=0&dl=0&f=u_0_0&qn_dyeid=c3ce38f8617d6748006939e66a093ad1&orderid=0,2
 小甜甜2,https://www.bilibili.com/video/BV1xW411a7vK/?spm_id_from=333.788.videopod.episodes&p2
 小甜甜3,https://www.bilibili.com/video/BV1xW411a7vK/?spm_id_from=333.788.videopod.episodes&p=3
