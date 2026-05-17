@@ -14,6 +14,10 @@
 
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=6TsaEYaKueE
 
+緯來日本,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
+緯來綜合,https://cdn.19891230.eu.org/api/VL-ONTV/index.m3u8
+緯來體育,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+
 馬祖藍眼淚,https://www.youtube.com/watch?v=v1nkaJg1wJQ
 張韶涵起風了,https://youtu.be/5elzpO7A7YY?si=pJ7D1u9Rj9pDRB9E
 一笑江湖,https://www.youtube.com/watch?v=g8Aagss4bnk
