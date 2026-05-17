@@ -211,6 +211,7 @@ CCTV-高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 黑龙江卫视,http://207.56.13.146:81/cdnlive/hljws.m3u8
 
 央視-MCP,#genre#
+ua=okHttp/Mod-1.5.0.0
 
 cctv4k超高清,https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=8780072305&sign=940e926af5550135efb949f26508b0f548d4d49388ae71efb82f4d346eecd126059d4fe8a5a48e417a5e35b2b248eea4ec43152871acd672d65c4276c40dc88d7ac4dd4a7cf33b569c229677cc54&auth_token=1fca735e35e3d15cf4699559a3d5d79e
 cctv8k超高清,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=8780072305&sign=6fff9ae624cac92b6050aa5012ff36233c3fcdc544e815215c58eadd9ac10b6e945d82315d00be03175217a8d82c3cbfeffeb89c0c607f5e07e20bf316ad01d8c05ad478703da7bd7a8dadedcdd7&auth_token=1fca735e35e3d15cf4699559a3d5d79e
@@ -237,6 +238,7 @@ CCTV17农业农村,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=8780072305&sig
 怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=8780072305&sign=eb3bf7667907ce6d3da559938f2b0810d2171d402240f8106776414b31537746f2ac872f3f9b50c07612841e12080026df5540c8042952df58ea4c07a28cdd4d7682f293c72d787728ba6b9e&auth_token=1fca735e35e3d15cf4699559a3d5d79e
 
 衛視-MCP,#genre#
+ua=okHttp/Mod-1.5.0.0
 
 江苏卫视,https://live.ottiptv.cc/mcp/jiangsu.m3u8?userid=8780072305&sign=05e7d3313976f0cd7951fc631d584c9e5fac8448ce0434f668d25e3a446ccfeeaaa78e4606be118279ef5db7f419f5646c7a90d58bc1d4ba88559b7f1cdf4bbb16d8cf4b9089658520db89372bc376&auth_token=1fca735e35e3d15cf4699559a3d5d79e
 浙江卫视,https://live.ottiptv.cc/mcp/zhejiang.m3u8?userid=8780072305&sign=58ce15112561c7246d864710fb0e0b0817145ece5273c30298994250e90fc4e08e43cd43dc68385a07d312a6f89942ba9e369527fcceb97817682b781147afc865b040f1f79a3a05c9c134b45a3eb828&auth_token=1fca735e35e3d15cf4699559a3d5d79e
