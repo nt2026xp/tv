@@ -143,8 +143,6 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 
 (垃圾群) 智能電視盒子 https://t.me/meitu007
 
-(垃圾群) 點播直播交流群：https://t.me/doubebly001
-
 (垃圾群)juli直播源 https://t.me/tvzby
 
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
@@ -181,8 +179,6 @@ ok影視 https://t.me/tvb_ys
 
 天光云影發布 https://t.me/mytv_android_release
 
-點播直播通知群 https://t.me/doubebly003
-
 Tvbox接口 https://t.me/TVBoxjkou
 
 港澳台直播軟件 https://t.me/tvbox9521
@@ -191,8 +187,7 @@ catvod https://t.me/catvod_com
 
 Yang https://t.me/Y_anGGGGGG
 
-mytv 
-https://t.me/mytv_android
+mytv https://t.me/mytv_android
 ================
 
 聽音樂 @vkmusbot
