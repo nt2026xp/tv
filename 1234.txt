@@ -301,3 +301,12 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 鳳凰衛視·中文,https://cdn6.163189.xyz/163189/fhzw
 鳳凰衛視·資訊,https://cdn6.163189.xyz/163189/fhzx
 鳳凰衛視·香港,https://cdn6.163189.xyz/163189/fhhk
+
+黑龍江,#genre#
+
+黑龍江衛視,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
+黑龍江影視,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljys
+黑龍江都市,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds
+黑龍江新聞法治,webview://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
+黑龍江文體,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
+黑龍江農業科教,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
