@@ -1,4 +1,4 @@
-207央視衛視,#genre#
+207央視,#genre#
 
 CCTV-1综合,http://207.56.13.146:81/cdnlive/cctv1.m3u8
 CCTV-2财经,http://207.56.13.146:81/cdnlive/cctv2.m3u8
@@ -31,6 +31,9 @@ CCTV-风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 CCTV-风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
 CCTV-央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 CCTV-高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
+
+
+207衛視,#genre#
 
 江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
 浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
