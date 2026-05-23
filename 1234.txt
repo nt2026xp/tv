@@ -5,7 +5,7 @@ CCTV-2财经,http://207.56.13.146:81/cdnlive/cctv2.m3u8
 CCTV-3综艺,http://207.56.13.146:81/cdnlive/cctv3.m3u8
 CCTV-4中文国际,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV-5体育,http://207.56.13.146:81/cdnlive/cctv5.m3u8
-CCTV-5+HD,http://207.56.13.146:81/cdnlive/cctv5p.m3u8
+CCTV5+-体育赛事,http://207.56.13.146:81/cdnlive/cctv5p.m3u8
 CCTV-6电影,http://207.56.13.146:81/cdnlive/cctv6.m3u8
 CCTV-7国防军事,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-8电视剧,http://207.56.13.146:81/cdnlive/cctv8.m3u8
