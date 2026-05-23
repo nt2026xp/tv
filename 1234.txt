@@ -149,13 +149,3 @@ CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
-
-廣東,#genre#
-
-广东影视,http://go.bkpcp.top/mg/gdys
-广东卫视,http://go.bkpcp.top/mg/gdws
-广东珠江,http://go.bkpcp.top/mg/gdzj
-广东体育,http://go.bkpcp.top/mg/gdty
-广东民生,http://go.bkpcp.top/mg/gdms
-广东新闻,http://go.bkpcp.top/mg/gdxw
-
