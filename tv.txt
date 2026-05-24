@@ -403,8 +403,6 @@ cctv欧洲,http://m.061899.xyz/mg/cctv4o
 黑龙江卫视,http://m.061899.xyz/mg/hljws
 
 廣東,#genre#
-parse=1
-
 
 广东影视,https://www.gdtv.cn/tvChannelDetail/53
 广东卫视,https://www.gdtv.cn/tvChannelDetail/43
@@ -427,29 +425,11 @@ parse=1
 GRTN生活频道,https://www.gdtv.cn/tvChannelDetail/102
 
 廣東ua,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 
-广东影视,https://www.gdtv.cn/tvChannelDetail/53
-广东卫视,https://www.gdtv.cn/tvChannelDetail/43
-广东珠江,https://www.gdtv.cn/tvChannelDetail/44
-广东新闻,https://www.gdtv.cn/tvChannelDetail/45
-广东民生,https://www.gdtv.cn/tvChannelDetail/48
-广东体育,https://www.gdtv.cn/tvChannelDetail/47
-大湾区卫视,https://www.gdtv.cn/tvChannelDetail/51
-大湾区卫视（海外版）,https://www.gdtv.cn/tvChannelDetail/46
-
-4K超高清,https://www.gdtv.cn/tvChannelDetail/16
-广东少儿,https://www.gdtv.cn/tvChannelDetail/54
-嘉佳卡通,https://www.gdtv.cn/tvChannelDetail/66
-南方购物,https://www.gdtv.cn/tvChannelDetail/42
-岭南戏曲,https://www.gdtv.cn/tvChannelDetail/15
-广东移动,https://www.gdtv.cn/tvChannelDetail/74
-广东台经典剧,https://www.gdtv.cn/tvChannelDetail/100
-纪录片,https://www.gdtv.cn/tvChannelDetail/94
-健康,https://www.gdtv.cn/tvChannelDetail/99
-GRTN生活频道,https://www.gdtv.cn/tvChannelDetail/102
-	
-	
-
-
+广东影视,http://go.bkpcp.top/mg/gdys
+广东卫视,http://go.bkpcp.top/mg/gdws
+广东珠江,http://go.bkpcp.top/mg/gdzj
+广东体育,http://go.bkpcp.top/mg/gdty
+广东民生,http://go.bkpcp.top/mg/gdms
+广东新闻,http://go.bkpcp.top/mg/gdxw
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
