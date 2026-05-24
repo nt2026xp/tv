@@ -322,3 +322,23 @@ cctv17-MCP,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=8537635587&sign=b0d669
 内蒙古卫视-MCP,https://live.ottiptv.cc/mcp/neimenggu.m3u8?userid=8537635587&sign=c13b9409a4b04d74ffa74b2ea51e691d56f03a0d741e671d1d7c0ddfd6c5dac60583634c06a6c5ce47f50f0d8b6384fb7d27edf1b365f52126fda38349a90bdb9bb2e3caaff14ea4502714cd088d587c04&auth_token=8d38d3d7a2bbdab1c9d0fddd938819c4
 黑龙江卫视-MCP,https://live.ottiptv.cc/mcp/heilongjiang.m3u8?userid=8537635587&sign=3dfc28c6c688610804c52e7d336bed61df7df97096fdae8714bdadc0f8e1f4d4ef18cb94fe6453598eff413d2ba8d9258b4e90db724d91696cb97fc3e19466f2b5d25259da9fcbbec09f25a1169197d71071568a&auth_token=8d38d3d7a2bbdab1c9d0fddd938819c4
 
+
+go廣東,#genre#
+
+广东影视,http://go.bkpcp.top/mg/gdys
+广东卫视,http://go.bkpcp.top/mg/gdws
+广东珠江,http://go.bkpcp.top/mg/gdzj
+广东体育,http://go.bkpcp.top/mg/gdty
+广东新闻,http://go.bkpcp.top/mg/gdxw
+广东民生,http://go.bkpcp.top/mg/gdms
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
+
+061899廣東,#genre#
+
+广东影视,http://m.061899.xyz/mg/gdys
+广东卫视,http://m.061899.xyz/mg/gdws
+广东珠江,http://m.061899.xyz/mg/gdzj
+广东体育,http://m.061899.xyz/mg/gdty
+广东新闻,http://m.061899.xyz/mg/gdxw
+广东民生,http://m.061899.xyz/mg/gdms
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
