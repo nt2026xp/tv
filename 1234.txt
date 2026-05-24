@@ -150,7 +150,7 @@ CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
 
-米古央視衛視,#genre#
+061899央視衛視,#genre#
 
 CCTV1综合,http://m.061899.xyz/mg/cctv1
 CCTV2财经,http://m.061899.xyz/mg/cctv2
