@@ -1,6 +1,6 @@
 207央視,#genre#
 
-83無綫新聞台,webview://https://news.tvb.com/tc/live/83
+83無綫新聞台,https://news.tvb.com/tc/live/83
 CCTV-1综合,http://207.56.13.146:81/cdnlive/cctv1.m3u8
 CCTV-2财经,http://207.56.13.146:81/cdnlive/cctv2.m3u8
 CCTV-3综艺,http://207.56.13.146:81/cdnlive/cctv3.m3u8
