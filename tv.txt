@@ -80,6 +80,10 @@ TVBS精采台,udp://@230.1.2.35:11111
 
 TVBS新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/media-live072/index.m3u8
 東森新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
+
+TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
