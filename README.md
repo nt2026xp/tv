@@ -25,7 +25,7 @@ myTV直播 https://iptv.yang-1989.eu.org/m3u/myTV.m3u
 影視json https://iptv.yang-1989.eu.org/m3u/Gather.json
 
 
-直播源   http://www.饭太硬.com/tv
+直播源   http://www.饭太硬.cc/tv
 
 直播源   http://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
