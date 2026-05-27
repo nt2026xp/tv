@@ -128,7 +128,8 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 4gtv "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 ===============
-
+海豚影视交流群
+https://t.me/hshsjk9 
 
 IPTV直播源总部 https://t.me/iptvofficalgroup
 
