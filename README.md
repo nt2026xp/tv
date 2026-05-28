@@ -157,6 +157,8 @@ IPTV直播源总部 https://t.me/iptvofficalgroup
 
 (X垃圾群) Gpt研究所 https://t.me/gpt_858
 
+APTV https://t.me/AptvPlayer
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱頻道
