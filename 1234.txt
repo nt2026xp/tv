@@ -93,7 +93,7 @@ TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
 豬哥亮歌廳秀,https://ha.msbot.dpdns.org/4gtv_api.php?id=113
 韓國娛樂台 KMTV,https://ha.msbot.dpdns.org/4gtv_api.php?id=446
 
-207央視,#genre#
+207央視衛視,#genre#
 
 CCTV1综合,http://207.56.13.146:81/cdnlive/cctv1.m3u8
 CCTV2财经,http://207.56.13.146:81/cdnlive/cctv2.m3u8
@@ -126,8 +126,6 @@ CCTV风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 CCTV风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
 CCTV央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
-
-207衛視,#genre#
 
 江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
 浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
