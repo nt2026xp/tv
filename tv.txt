@@ -216,6 +216,7 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 
 173央視衛視,#genre#
 
+廣東影视,https://live.ottiptv.cc/mg/614961829.m3u8?userid=5453384424&sign=0d757d594891a95a50c441e5f1daf2285b31fef5468daa29f338e4d41b12aca21871f291948d567136e40ac674c275b2526cf90180332160562f6c37c1f3c4f39ee728b916d778ff2f9fc039662d69695e&auth_token=e2e27c2641e56ce59e5ab58ef56e38d0
 
 CCTV-1综合,http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV-2财经,http://173.208.212.130:8181/720p/cctv2.m3u8
