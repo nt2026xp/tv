@@ -2,28 +2,6 @@
 
 直播源 https://iptv.yang-1989.eu.org/m3u/Gather.m3u
 
-江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com
-
-浙江衛視,http://A/ku9/js/webview.js?id=https://www.cztv.com/liveTV
-
-北京衛視,http://A/ku9/js/webview.js?id=https://www.btime.com/btv
-
-東方衛視,http://A/ku9/js/webview.js?id=https://live.kankanews.com/huikan
-
-
-佛繫收集，免費分享 https://yang-1989.eu.org
-
-電視直播 https://iptv.yang-1989.eu.org/m3u/Gather.m3u
-
-網路直播 https://live.yang-1989.eu.org/Live.m3u
-
-myTV直播 https://iptv.yang-1989.eu.org/m3u/myTV.m3u
-
-體育直播 https://iptv.yang-1989.eu.org/m3u/Sport.m3u
-
-影視json https://iptv.yang-1989.eu.org/m3u/Gather.json
-
-
 直播源   http://www.饭太硬.cc/tv
 
 直播源   http://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
