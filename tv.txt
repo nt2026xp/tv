@@ -196,12 +196,11 @@ Astro QJ,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 Astro 欢喜台,https://o11.163189.xyz/stream/live/hxt/
 iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
 八度空間,http://cdn6.163189.xyz/163189/8tv
-Channel 5,http://cdn6.163189.xyz/163189/ch5
-Channel 8,http://cdn6.163189.xyz/163189/ch8
-Channel U,http://cdn6.163189.xyz/163189/ch
+
 
 蠟筆小新,#genre#
 
+東森幼幼「Relay」,https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
 櫻桃小丸子,https://live.ottiptv.cc/huya/11342394
 
