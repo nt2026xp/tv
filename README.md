@@ -1,3 +1,7 @@
+佛繫收集，免費分享 https://yang-1989.eu.org
+
+直播源 https://iptv.yang-1989.eu.org/m3u/Gather.m3u
+
 江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com
 
 浙江衛視,http://A/ku9/js/webview.js?id=https://www.cztv.com/liveTV
