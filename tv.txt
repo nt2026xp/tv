@@ -1,3 +1,205 @@
+Gather直播,#genre#
+
+東森幼幼「Relay」,https://cdn.19891230.eu.org/api/YoYo-TV/index.m3u8
+緯來日本「Relay」,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
+緯來綜合「Relay」,https://cdn.19891230.eu.org/api/VL-ONTV/index.m3u8
+緯來體育「Relay」,https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+TVBS 新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/media-live072/index.m3u8
+東森新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
+華視「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv041/index.m3u8
+中視「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv040/index.m3u8
+台視「Relay」,https://cdn.19891230.eu.org/api/TTV/index.m3u8
+
+CCTV 1 綜合「Relay」,https://cdn.19891230.eu.org/api/CCTV1/index.m3u8
+CCTV 2 財經「Relay」,https://cdn.19891230.eu.org/api/CCTV2/index.m3u8
+CCTV 3 綜藝「Relay」,https://cdn.19891230.eu.org/api/CCTV3/index.m3u8
+CCTV 4 中文國際「Relay」,https://cdn.19891230.eu.org/api/CCTV4/index.m3u8
+CCTV 5 體育「Relay」,https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
+CCTV 5+ 體育賽事「Relay」,https://cdn.19891230.eu.org/api/CCTV5+/index.m3u8
+CCTV 6 電影「Relay」,https://cdn.19891230.eu.org/api/CCTV6/index.m3u8
+CCTV 7 國防軍事「Relay」,https://cdn.19891230.eu.org/api/CCTV7/index.m3u8
+CCTV 8 電視劇「Relay」,https://cdn.19891230.eu.org/api/CCTV8/index.m3u8
+CCTV 9 記錄「Relay」,https://cdn.19891230.eu.org/api/CCTV9/index.m3u8
+CCTV 10 科教「Relay」,https://cdn.19891230.eu.org/api/CCTV10/index.m3u8
+CCTV 11 戲曲「Relay」,https://cdn.19891230.eu.org/api/CCTV11/index.m3u8
+CCTV 12 社會與法「Relay」,https://cdn.19891230.eu.org/api/CCTV12/index.m3u8
+CCTV 13 新聞「Relay」,https://cdn.19891230.eu.org/api/CCTV13/index.m3u8
+CCTV 14 少兒「Relay」,https://cdn.19891230.eu.org/api/CCTV14/index.m3u8
+CCTV 15 音樂「Relay」,https://cdn.19891230.eu.org/api/CCTV15/index.m3u8
+江蘇衛視「Relay」,https://cdn.19891230.eu.org/api/jsws/index.m3u8
+浙江衛視「Relay」,https://cdn.19891230.eu.org/api/zjws/index.m3u8
+湖南衛視「Relay」,https://cdn.19891230.eu.org/api/hnws/index.m3u8
+北京衛視「Relay」,https://cdn.19891230.eu.org/api/bjws/index.m3u8
+東方衛視「Relay」,https://cdn.19891230.eu.org/api/dfws/index.m3u8
+廣東衛視「Relay」,https://cdn.19891230.eu.org/api/gdws/index.m3u8
+四川衛視「Relay」,https://cdn.19891230.eu.org/api/scws/index.m3u8
+
+Now直播台,https://cdn.19891230.eu.org/hk/now-331/index.m3u8
+Now新聞台,https://cdn.19891230.eu.org/hk/now-332/index.m3u8
+Now財經台,https://cdn.19891230.eu.org/hk/now-333/index.m3u8
+Now Sports 精選,https://cdn.19891230.eu.org/hk/now-630/index.m3u8
+ViuTV,https://cdn.19891230.eu.org/hk/ViuTV/index.m3u8
+ViuTVsix,https://cdn.19891230.eu.org/hk/ViuTVsix/index.m3u8
+HOY 國際財經台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+HOY 生活台,https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
+HOY 劇集台,https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
+HOY 怪談台,https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
+HOY 體育台,https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
+澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳門資訊,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
+
+緯來電影「Relay」,https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+緯來戲劇「Relay」,https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
+緯來育樂「Relay」,https://cdn.19891230.eu.org/api/VL-E/index.m3u8
+
+
+年代新聞「Relay」,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
+中天亞洲「Relay」,https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
+中天綜合「Relay」,https://cdn.19891230.eu.org/api/Cti-K/index.m3u8
+中天娛樂「Relay」,https://cdn.19891230.eu.org/api/Cti-E/index.m3u8
+中天新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
+中視新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv074/index.m3u8
+東森財經「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv153/index.m3u8
+東森電影「Relay」,https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
+東森洋片「Relay」,https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
+東森綜合「Relay」,https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
+東森戲劇「Relay」,https://cdn.19891230.eu.org/api/ET-Drama-Channel/index.m3u8
+TVBS「4gTV」,https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
+TVBS 歡樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv068/index.m3u8
+TVBS 精采「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv067/index.m3u8
+靖天國際「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv063/index.m3u8
+靖天歡樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv054/index.m3u8
+靖天映畫「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv055/index.m3u8
+靖天戲劇「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv058/index.m3u8
+靖天日本「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv047/index.m3u8
+靖天綜合「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv046/index.m3u8
+靖天育樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv062/index.m3u8
+靖天資訊「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv065/index.m3u8
+靖天電影「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv061/index.m3u8
+靖天卡通「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv044/index.m3u8
+靖洋卡通「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv057/index.m3u8
+靖洋戲劇「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv045/index.m3u8
+龍華偶像「ofiii」,https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang12
+龍華卡通「ofiii」,https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang01
+龍華戲劇「ofiii」,https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang18
+龍華日韓「ofiii」,https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang11
+龍華洋片「ofiii」,https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang02
+龍華經典「ofiii」,https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang21
+龍華電影「ofiii」,https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang03
+八大精彩「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv034/index.m3u8
+八大綜藝「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv039/index.m3u8
+台視新聞「ofiii」,https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv051
+公視戲劇「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv042/index.m3u8
+台灣戲劇「ofiii」,https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang22
+寰宇新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
+寰宇新聞台灣「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
+寰宇財經「ofiii」,https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv158
+華視新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv052/index.m3u8
+民視「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
+民視台灣「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv001/index.m3u8
+民視影劇「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv09/index.m3u8
+民視新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv13/index.m3u8
+民視旅遊「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv07/index.m3u8
+民視第一「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv003/index.m3u8
+民視綜藝「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv004/index.m3u8
+三立綜合「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
+三立新聞iNEWS「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live089/index.m3u8
+好萊塢電影「Relay」,https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
+龍祥時代「Relay」,https://cdn.19891230.eu.org/api/LSTIME-Movie/index.m3u8
+CINEMAX「Relay」,https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
+MTV Live「Relay」,https://cdn.19891230.eu.org/api/MTV-Live/index.m3u8
+愛爾達寵物運動「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv070/index.m3u8
+愛爾達生活旅遊「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live120/index.m3u8
+鏡電視新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv075/index.m3u8
+倪珍播新聞「ofiii」,https://cdn.yang-1989.eu.org/ofiii/nnews-zh
+半島國際新聞「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live157/index.m3u8
+DW德國之聲「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live071/index.m3u8
+FRANCE24「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live146/index.m3u8
+NHK 新聞資訊「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live168/index.m3u8
+CNBC Asia 財經「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live130/index.m3u8
+SBN 全球財經「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live060/index.m3u8
+Bloomberg TV「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live059/index.m3u8
+DayStar「ofiii」,https://cdn.yang-1989.eu.org/ofiii/daystar
+亞洲旅遊「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv076/index.m3u8
+時尚運動X「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv014/index.m3u8
+智林體育「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv101/index.m3u8
+第1商業「ofiii」,https://cdn.yang-1989.eu.org/ofiii/4gtv-4gtv104
+amc電影台「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv017/index.m3u8
+MCE 我的歐洲電影「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv10/index.m3u8
+影迷數位電影「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv011/index.m3u8
+影迷數位紀實「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-ftv15/index.m3u8
+CinemaWorld「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live069/index.m3u8
+經典電影「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live021/index.m3u8
+Love Nature「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live208/index.m3u8
+視納華仁紀實頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv013/index.m3u8
+CI 罪案偵查頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live027/index.m3u8
+History 歷史頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live026/index.m3u8
+MagellanTV (麥哲倫頻道)「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live123/index.m3u8/index.m3u8
+ROCK Action「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live138/index.m3u8
+ROCK Entertainment「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live080/index.m3u8
+ROCK Xstream「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live124/index.m3u8
+Arirang TV「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv079/index.m3u8
+韓國娛樂台 KMTV「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv016/index.m3u8
+Lifetime 娛樂頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live029/index.m3u8
+fun探索娛樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live011/index.m3u8
+HITS頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live620/index.m3u8
+豬哥亮歌廳秀「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv006/index.m3u8
+采昌影劇「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv049/index.m3u8
+CLASSICA 古典樂「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv059/index.m3u8
+Mezzo Live「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv083/index.m3u8
+電影原聲 CMusic「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live031/index.m3u8
+TRACE Urban「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv082/index.m3u8
+TRACE Sport Stars「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv077/index.m3u8
+GINX Esports TV「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv053/index.m3u8
+DreamWorks 夢工廠動畫「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
+精選動漫「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live024/index.m3u8
+經典卡通「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live022/index.m3u8
+MOMO親子「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live107/index.m3u8
+Nick Jr. 兒童頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live032/index.m3u8
+尼克兒童頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live105/index.m3u8
+Pet Club TV「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv110/index.m3u8
+LiveABC互動英語頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live030/index.m3u8
+ELTA生活英語「4gTV」,https://cdn.19891230.eu.org/4gtv/litv-xinchuang20/index.m3u8
+Smart知識「ofiii」,https://cdn.yang-1989.eu.org/ofiii/litv-xinchuang19/index.m3u8
+達文西頻道「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv018/index.m3u8
+滾動力rollor「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live012/index.m3u8
+INULTRA「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live096/index.m3u8
+Global Trekker「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live112/index.m3u8
+LUXE TV Channel「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live121/index.m3u8
+TV5MONDE STYLE 生活時尚「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-live122/index.m3u8
+幸福空間居家「4gTV」,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv064/index.m3u8
+車迷「4gTV」 TV,https://cdn.19891230.eu.org/4gtv/4gtv-live201/index.m3u8
+
+
+翡翠台 4K「多音轨字幕」,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/fct/
+明珠台「多音轨字幕」,https://o11.163189.xyz/stream/tvb/mzt/
+TVB Plus「多音轨字幕」,https://o11.163189.xyz/stream/tvb/tvbp/
+無綫新聞台,https://cdn6.163189.xyz/163189/wxxw
+Now新聞台,https://cdn.163189.xyz/163189/now
+娛樂新聞台,https://cdn6.163189.xyz/163189/ylxw
+千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
+天映频道,https://o11.163189.xyz/stream/live/typd/
+天映經典,https://o11.163189.xyz/stream/live/ccm/
+亞洲武俠,https://cdn6.163189.xyz/163189/yzwx
+TVB 星河「多音轨字幕」,https://o11.163189.xyz/stream/live/tvbxh/
+Astro AOD「多音轨字幕」,https://o11.163189.xyz/stream/live/aod/
+Astro AEC「多音轨字幕」,https://o11.163189.xyz/stream/live/aec/
+Astro QJ,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
+Astro 欢喜台,https://o11.163189.xyz/stream/live/hxt/
+iQIYI,https://o11.163189.xyz/stream/live/iqiyi/
+八度空間,http://cdn6.163189.xyz/163189/8tv
+Channel 5,http://cdn6.163189.xyz/163189/ch5
+Channel 8,http://cdn6.163189.xyz/163189/ch8
+Channel U,http://cdn6.163189.xyz/163189/ch
+
 蠟筆小新,#genre#
 
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
