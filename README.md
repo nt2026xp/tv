@@ -138,8 +138,6 @@ IPTV直播源总部 https://t.me/iptvofficalgroup
 
 (X垃圾群)pixman群 https://t.me/pixman_io
 
-(X垃圾群) Gpt研究所 https://t.me/gpt_858
-
 APTV https://t.me/AptvPlayer
 
 ＋＋＋＋＋＋＋＋＋
