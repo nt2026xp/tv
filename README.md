@@ -1,4 +1,4 @@
-直播源 https://raw.githubusercontent.com/FGBLH/GHK
+直播源 https://github.com/FGBLH/GHK
 
 直播源 https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚无18加.json
 
