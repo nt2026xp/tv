@@ -1,3 +1,5 @@
+直播源 https://raw.githubusercontent.com/FGBLH/GHK
+
 直播源 https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚无18加.json
 
 佛繫收集，免費分享 https://yang-1989.eu.org
