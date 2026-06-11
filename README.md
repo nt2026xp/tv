@@ -111,20 +111,12 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 ===============
 影視資源交流2群 https://t.me/kevinmejo
 
-
-風雲 https://t.me/qytv888
-
-
 海豚影视交流群
 https://t.me/hshsjk9 
 
 IPTV直播源总部 https://t.me/iptvofficalgroup
 
-(垃圾群)酷9 https://t.me/Player_Ku9
-
 (垃圾群) 极致播放器交流群 https://t.me/jizhi00
-
-(垃圾群) GEEK https://t.me/geekiptv888
 
 (垃圾群) 阿黃tv https://t.me/ahuangtv
 
