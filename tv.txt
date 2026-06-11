@@ -176,6 +176,28 @@ TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
 豬哥亮歌廳秀,https://ha.msbot.dpdns.org/4gtv_api.php?id=113
 韓國娛樂台 KMTV,https://ha.msbot.dpdns.org/4gtv_api.php?id=446
 
+
+
+日本油管,#genre#
+
+TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
+関西24時間配信,https://www.youtube.com/watch?v=Ili9_YMvYQs
+メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
+北海道ニュース24,https://www.youtube.com/live/tvgbZZYS4Nk
+広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
+日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
+
+北海道函館山,https://www.youtube.com/watch?v=s--MDmshT3I
+大阪道頓堀,https://www.youtube.com/watch?v=v1iiYcesCUo
+東京歌舞伎町1,https://www.youtube.com/watch?v=DjdUEyjx8GM
+東京歌舞伎町2,https://www.youtube.com/watch?v=gFRtAAmiFbE
+
+渋谷交差点1,https://www.youtube.com/watch?v=dfVK7ld38Ys
+渋谷交差点2,https://www.youtube.com/watch?v=8H3nRCFVR6Y
+草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
+草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
+富士山忍野八海,https://www.youtube.com/watch?v=PxzwnWh1dKk
+
 4gtv網頁,#genre#
 parse=1
 
@@ -218,25 +240,3 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
-
-日本油管,#genre#
-
-TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
-関西24時間配信,https://www.youtube.com/watch?v=Ili9_YMvYQs
-メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
-北海道ニュース24,https://www.youtube.com/live/tvgbZZYS4Nk
-広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
-日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
-
-北海道函館山,https://www.youtube.com/watch?v=s--MDmshT3I
-大阪道頓堀,https://www.youtube.com/watch?v=v1iiYcesCUo
-東京歌舞伎町1,https://www.youtube.com/watch?v=DjdUEyjx8GM
-東京歌舞伎町2,https://www.youtube.com/watch?v=gFRtAAmiFbE
-
-渋谷交差点1,https://www.youtube.com/watch?v=dfVK7ld38Ys
-渋谷交差点2,https://www.youtube.com/watch?v=8H3nRCFVR6Y
-草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
-草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
-富士山忍野八海,https://www.youtube.com/watch?v=PxzwnWh1dKk
-
-
