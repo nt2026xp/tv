@@ -142,11 +142,7 @@ APTV https://t.me/AptvPlayer
 
 簡單IPTV https://t.me/jdiptvpub
 
-iptv研究所 https://t.me/Q_IPTV
-
 tmxk 频道 https://t.me/tmxktg
-
-judy所長 https://t.me/Y_IPTV/185
 
 肥羊 https://t.me/feiyangofficalchannel
 
