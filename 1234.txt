@@ -1,9 +1,16 @@
 廣東影視,#genre#
 
-NOW Sports 616 4K,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
-NOW Sports 617 4K,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
-NOW Sports 618,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
-NOW Sports 619,http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
+
+广东影视,http://go.bkpcp.top/mg/gdys
+广东卫视,http://go.bkpcp.top/mg/gdws
+广东珠江,http://go.bkpcp.top/mg/gdzj
+广东体育,http://go.bkpcp.top/mg/gdty
+
+CCTV5体育,http://82.156.243.185:36888/av3a/cctv5n.m3u8
+CCTV5+体育赛事,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+CCTV16奥林匹克,http://82.156.243.185:36888/av3a/cctv16n.m3u8
+cctv4k超高清,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+cctv8k超高清,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
@@ -53,16 +60,9 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 鳳凰衛視·資訊,https://cdn6.163189.xyz/163189/fhzx
 鳳凰衛視·香港,https://cdn6.163189.xyz/163189/fhhk
 
-CCTV5体育,http://82.156.243.185:36888/av3a/cctv5n.m3u8
-CCTV5+体育赛事,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
-CCTV16奥林匹克,http://82.156.243.185:36888/av3a/cctv16n.m3u8
-cctv4k超高清,http://82.156.243.185:36888/av3a/cctv4kn.m3u8
-cctv8k超高清,http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 
-广东影视,http://go.bkpcp.top/mg/gdys
-广东卫视,http://go.bkpcp.top/mg/gdws
-广东珠江,http://go.bkpcp.top/mg/gdzj
-广东体育,http://go.bkpcp.top/mg/gdty
+
+
 
 
 
