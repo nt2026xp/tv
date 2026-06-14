@@ -145,8 +145,6 @@ IPTV直播源总部 https://t.me/iptvofficalgroup
 
 (X垃圾群)pixman群 https://t.me/pixman_io
 
-APTV https://t.me/AptvPlayer
-
 ＋＋＋＋＋＋＋＋＋
 
 訂閱頻道
