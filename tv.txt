@@ -395,3 +395,14 @@ CCTV14少儿,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
 CCTV15音乐,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
 CCTV16奥林匹克,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
 CCTV17农业农村,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
+
+119廣東,#genre#
+
+广东影视,http://119.123.76.102:8086/hls/46/index.m3u8
+广东卫视,http://119.123.76.102:8086/hls/44/index.m3u8
+广东体育,http://119.123.76.102:8086/hls/42/index.m3u8
+广东新闻,http://119.123.76.102:8086/hls/45/index.m3u8
+广东珠江,http://119.123.76.102:8086/hls/47/index.m3u8
+广东民生,http://119.123.76.102:8086/hls/39/index.m3u8
+广东少儿,http://119.123.76.102:8086/hls/40/index.m3u8
+
