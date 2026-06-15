@@ -357,3 +357,12 @@ CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
 
+酷9歡樂看,#genre#
+
+龍華電影台,http://A/ku9/js/webview.js?id=https://www.faintv.com/channel/132
+龍華經典台,http://A/ku9/js/webview.js?id=https://www.faintv.com/channel/234
+龍華洋片台,http://A/ku9/js/webview.js?id=https://www.faintv.com/channel/228
+龍華日韓台,http://A/ku9/js/webview.js?id=https://www.faintv.com/channel/116
+龍華偶像台,http://A/ku9/js/webview.js?id=https://www.faintv.com/channel/122
+龍華戲劇台,http://A/ku9/js/webview.js?id=https://www.faintv.com/channel/95
+龍華卡通台,http://A/ku9/js/webview.js?id=https://www.faintv.com/channel/89
