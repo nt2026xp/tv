@@ -2,13 +2,9 @@
 注：①私聊机器人前请仔细阅读注意事项及申请格式。②仅限个人使用，如果分享可能会导致被TG账号进入黑名单，并且无法再次获取此订阅。
 
 
-
-
-
-
 直播源 https://github.com/FGBLH/GHK
 
-直播源 https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚无18加555.json
+直播源 [https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚无18加555.json](https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/%E6%B5%B7%E8%B1%9A%E6%97%A018%E5%8A%A0555.json)
 
 佛繫收集，免費分享 https://yang-1989.eu.org
 
