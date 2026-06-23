@@ -69,7 +69,6 @@ TVBS精采台,udp://@230.1.2.35:11111
 
 4gtv網頁,#genre#
 parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 
 TVBS新聞台,https://www.4gtv.tv/channel/media-live072?set=1&ch=473
 東森新聞台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
