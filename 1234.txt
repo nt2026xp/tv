@@ -1,3 +1,109 @@
+4gtv1080,#genre#
+
+TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+東森財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=293
+民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=31
+三立財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
+中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+華視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=34
+中視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=33
+寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
+寰宇台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+鏡新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
+
+華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
+中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
+民視旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
+亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
+愛爾達生活旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=237
+靖天日本台,https://ha.msbot.dpdns.org/4gtv_api.php?id=22
+
+靖天育樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=83
+靖天映畫台,https://ha.msbot.dpdns.org/4gtv_api.php?id=42
+靖天國際台,https://ha.msbot.dpdns.org/4gtv_api.php?id=84
+靖天資訊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=88
+靖天電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=82
+靖天綜合台,https://ha.msbot.dpdns.org/4gtv_api.php?id=21
+靖天戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=116
+靖天歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=119
+靖洋戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=118
+靖天卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=15
+靖洋卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=59
+
+
+
+龍華電影,https://cdn8.163189.xyz/163189/lhdy
+龍華經典,https://cdn8.163189.xyz/163189/lhjd
+龍華洋片,https://cdn8.163189.xyz/163189/lhyp
+龍華日韓,https://cdn8.163189.xyz/163189/lhrh
+龍華戲劇,https://cdn8.163189.xyz/163189/lhxj
+龍華偶像,https://cdn8.163189.xyz/163189/lhox
+龍華卡通,https://cdn8.163189.xyz/163189/lhkt
+
+
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
+TVBS台劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
+TVBS精采台,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
+TVBS綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=476
+TVBS歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
+民視台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=2
+民視第一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=1
+民視綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
+民視影劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=24
+
+amc電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=39
+ARIRANG阿里郎頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=189
+My Cinema Europe HD 我的歐洲電影,https://ha.msbot.dpdns.org/4gtv_api.php?id=463
+ELTV生活英語台,https://ha.msbot.dpdns.org/4gtv_api.php?id=490
+FRANCE24 英文台,https://ha.msbot.dpdns.org/4gtv_api.php?id=316
+GagaOOLala 精選LGBTQ+好劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=478
+INULTRA,https://ha.msbot.dpdns.org/4gtv_api.php?id=444
+LiveABC互動英語頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=188
+LUXE TV Channel,https://ha.msbot.dpdns.org/4gtv_api.php?id=175
+MagellanTV頻道 (麥哲倫頻道) ,https://ha.msbot.dpdns.org/4gtv_api.php?id=450
+MOMO親子台,https://ha.msbot.dpdns.org/4gtv_api.php?id=231
+NHK WORLD-JAPAN,https://ha.msbot.dpdns.org/4gtv_api.php?id=461
+ROCK Xstream搖滾極限頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=485
+SBN全球財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=224
+TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
+人間衛視,https://ha.msbot.dpdns.org/4gtv_api.php?id=210
+三立綜合台,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
+大愛電視,https://ha.msbot.dpdns.org/4gtv_api.php?id=209
+公視戲劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=7
+半島國際新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=462
+好消息2台,https://ha.msbot.dpdns.org/4gtv_api.php?id=8
+車迷TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=160
+幸福空間居家台,https://ha.msbot.dpdns.org/4gtv_api.php?id=123
+東森購物一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=173
+東森購物二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=174
+東森購物三台,https://ha.msbot.dpdns.org/4gtv_api.php?id=287
+東森購物四台,https://ha.msbot.dpdns.org/4gtv_api.php?id=286
+金光布袋戲,https://ha.msbot.dpdns.org/4gtv_api.php?id=236
+客家電視台,https://ha.msbot.dpdns.org/4gtv_api.php?id=107
+原住民族電視台,https://ha.msbot.dpdns.org/4gtv_api.php?id=124
+時尚運動X,https://ha.msbot.dpdns.org/4gtv_api.php?id=69
+國會頻道1,https://ha.msbot.dpdns.org/4gtv_api.php?id=170
+國會頻道2,https://ha.msbot.dpdns.org/4gtv_api.php?id=171
+博斯高球二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=494
+博斯高球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=486
+博斯無限二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=496
+博斯無限台,https://ha.msbot.dpdns.org/4gtv_api.php?id=489
+博斯運動一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=487
+博斯運動二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=495
+博斯網球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=488
+博斯魅力台,https://ha.msbot.dpdns.org/4gtv_api.php?id=493
+智林體育台,https://ha.msbot.dpdns.org/4gtv_api.php?id=58
+新唐人亞太台,https://ha.msbot.dpdns.org/4gtv_api.php?id=223
+經典卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=202
+經典電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=201
+滾動力rollor,https://ha.msbot.dpdns.org/4gtv_api.php?id=249
+精選動漫台,https://ha.msbot.dpdns.org/4gtv_api.php?id=204
+豬哥亮歌廳秀,https://ha.msbot.dpdns.org/4gtv_api.php?id=113
+韓國娛樂台 KMTV,https://ha.msbot.dpdns.org/4gtv_api.php?id=446
+
 720央視衛視,#genre#
 
 CCTV-4K超高清,http://104.152.209.49:8181/720p/cctv4k.m3u8
