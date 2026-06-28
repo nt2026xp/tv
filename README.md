@@ -119,6 +119,8 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 4gtv "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 ===============
+
+gray  https://t.me/garyshare
 直播源 
 @cniptv_group
 
