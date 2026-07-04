@@ -1,3 +1,6 @@
+EPG https://epg.pw/xmltv/epg_CN.xml
+
+
 "ads": [
 
         "static-mozai.4gtv.tv"
