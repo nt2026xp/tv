@@ -92,6 +92,7 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 
 華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 民視旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 愛爾達生活旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=237
