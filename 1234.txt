@@ -294,16 +294,9 @@ CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
 
 
-央視新聞,webview://#genre#
+香港頻道,#genre#
 
-CCTV4K超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
-CCTV1綜合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV2財經,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
-CCTV4中文國際,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
-CCTV7國防軍事,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
-CCTV9紀錄,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
-CCTV10科教,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
-CCTV12社會與法,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325
-CCTV13新聞,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
-CCTV17農業農村,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
-
+星影台,http://77.90.60.172:36633/2/video/index.m3u8
+爆谷台,http://77.90.60.172:36633/1/video/index.m3u8
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
