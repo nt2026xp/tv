@@ -14,6 +14,11 @@
 龍華偶像,https://cdn8.163189.xyz/163189/lhox
 龍華卡通,https://cdn8.163189.xyz/163189/lhkt
 
+星影台,http://77.90.60.172:36633/2/video/index.m3u8
+爆谷台,http://77.90.60.172:36633/1/video/index.m3u8
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
+
 蠟筆小新TV版,https://www.youtube.com/live/ENnjj7jQ23g
 我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
 新哆啦A夢,https://www.youtube.com/watch?v=gnDok9gtopw
