@@ -152,63 +152,6 @@ CCTV-高尔夫网球,http://104.152.209.49:8181/720p/gefwq.m3u8
 河南卫视,http://104.152.209.49:8181/720p/haws.m3u8
 深圳卫视,http://104.152.209.49:8181/720p/szws.m3u8
 
-廣東影視,#genre#
-
-广东影视,http://go.bkpcp.top/mg/gdys
-广东卫视,http://go.bkpcp.top/mg/gdws
-广东珠江,http://go.bkpcp.top/mg/gdzj
-广东体育,http://go.bkpcp.top/mg/gdty
-
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-有线新闻,https://cdn.163189.xyz/163189/hoy78
-有线综合,https://cdn6.163189.xyz/163189/hoy
-有线亚剧,https://cdn2.163189.xyz/163189/hoyjj
-无线新闻,https://cdn6.163189.xyz/163189/wxxw
-无线翡翠,https://cdn6.163189.xyz/163189/fct
-无线翡翠4K,https://cdn6.163189.xyz/163189/fct4k
-无线华丽,https://cdn6.163189.xyz/163189/hlfct
-无线明珠,https://cdn6.163189.xyz/163189/mzt
-无线星河,https://cdn6.163189.xyz/163189/tvbxh
-无线功夫,https://cdn6.163189.xyz/163189/yzwx
-澳视澳门,https://cdn6.163189.xyz/163189/asam
-澳视卫星,https://cdn6.163189.xyz/163189/as
-澳门体育,https://cdn6.163189.xyz/163189/amty
-澳门综艺,https://cdn6.163189.xyz/163189/amzy
-澳门莲花,https://cdn6.163189.xyz/163189/amlh
-央视综合,https://cdn6.163189.xyz/163189/cctv1
-重温经典,https://cdn6.163189.xyz/163189/cwjd
-龙华电影,https://cdn8.163189.xyz/163189/lhdy
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
-龙华偶像,https://cdn8.163189.xyz/163189/lhox
-龙华日韩,https://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
-
-TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-TVB翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB無綫新聞台,https://cdn6.163189.xyz/163189/wxxw
-TVB 星河,https://o11.163189.xyz/stream/live/tvbxh/
-天映频道,https://o11.163189.xyz/stream/live/typd/
-天映經典,https://o11.163189.xyz/stream/live/ccm/
-Now新聞台,https://cdn.163189.xyz/163189/now
-娛樂新聞台,https://cdn6.163189.xyz/163189/ylxw
-千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
-亞洲武俠,https://cdn6.163189.xyz/163189/yzwx
-五星体育,https://iptv.yang-1989.eu.org/kdf/1605
-新纪实,https://iptv.yang-1989.eu.org/kdf/1600
-鳳凰衛視·中文,https://cdn6.163189.xyz/163189/fhzw
-鳳凰衛視·資訊,https://cdn6.163189.xyz/163189/fhzx
-鳳凰衛視·香港,https://cdn6.163189.xyz/163189/fhhk
-龍華電影,https://cdn8.163189.xyz/163189/lhdy
-龍華經典,https://cdn8.163189.xyz/163189/lhjd
-龍華洋片,https://cdn8.163189.xyz/163189/lhyp
-龍華日韓,https://cdn8.163189.xyz/163189/lhrh
-龍華戲劇,https://cdn8.163189.xyz/163189/lhxj
-龍華偶像,https://cdn8.163189.xyz/163189/lhox
-龍華卡通,https://cdn8.163189.xyz/163189/lhkt
-
 天光央視,#genre#
 
 CCTV-1综合,webview://https://tv.cctv.com/live/cctv1/index.shtml
@@ -270,6 +213,13 @@ CCTV-17农业农村,webview://https://tv.cctv.com/live/cctv17/index.shtml
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
 
+
+廣東影視,#genre#
+
+广东影视,http://go.bkpcp.top/mg/gdys
+广东卫视,http://go.bkpcp.top/mg/gdws
+广东珠江,http://go.bkpcp.top/mg/gdzj
+广东体育,http://go.bkpcp.top/mg/gdty
 
 香港頻道,#genre#
 
