@@ -209,7 +209,7 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 龍華偶像,https://cdn8.163189.xyz/163189/lhox
 龍華卡通,https://cdn8.163189.xyz/163189/lhkt
 
-天光央視1,#genre#
+天光央視,#genre#
 
 CCTV-1综合,webview://https://tv.cctv.com/live/cctv1/index.shtml
 CCTV-2财经,webview://https://tv.cctv.com/live/cctv2/index.shtml
@@ -231,29 +231,6 @@ CCTV-14少儿,webview://https://tv.cctv.com/live/cctvchild/index.shtml
 CCTV-15音乐,webview://https://tv.cctv.com/live/cctv15/index.shtml
 CCTV-16奥林匹克,webview://https://tv.cctv.com/live/cctv16/index.shtml
 CCTV-17农业农村,webview://https://tv.cctv.com/live/cctv17/index.shtml
-
-天光央視2,#genre#
-
-CCTV-1综合,webview://https://www.yangshipin.cn/tv/home?pid=600001859	
-CCTV-2财经,webview://https://www.yangshipin.cn/tv/home?pid=600001800	
-CCTV-3综艺,webview://https://www.yangshipin.cn/tv/home?pid=600001801	
-CCTV-4中文国际,webview://https://www.yangshipin.cn/tv/home?pid=600001814	
-CCTV-5体育,webview://https://www.yangshipin.cn/tv/home?pid=600001818
-CCTV-5+体育赛事,webview://https://www.yangshipin.cn/tv/home?pid=600001817
-CCTV-6电影,webview://https://www.yangshipin.cn/tv/home?pid=600108442	
-CCTV-7国防军事,webview://https://www.yangshipin.cn/tv/home?pid=600004092	
-CCTV-8电视剧,webview://https://www.yangshipin.cn/tv/home?pid=600001803	
-CCTV-9纪录,webview://https://www.yangshipin.cn/tv/home?pid=600004078
-CCTV-10科教,webview://https://www.yangshipin.cn/tv/home?pid=600001805
-CCTV-11戏曲,webview://https://www.yangshipin.cn/tv/home?pid=600001806	
-CCTV-12社会与法,webview://https://www.yangshipin.cn/tv/home?pid=600001807	
-CCTV-13新闻,webview://https://www.yangshipin.cn/tv/home?pid=600001811
-CCTV-14少儿,webview://https://www.yangshipin.cn/tv/home?pid=600001809	
-CCTV-15音乐,webview://https://www.yangshipin.cn/tv/home?pid=600001815
-CCTV-16奥林匹克,webview://https://www.yangshipin.cn/tv/home?pid=600098637
-CCTV-17农业农村,webview://https://www.yangshipin.cn/tv/home?pid=600001810	
-CCTV4K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264	
-CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816	
 
 风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099658
 第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
@@ -296,7 +273,5 @@ CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 
 香港頻道,#genre#
 
-星影台,http://77.90.60.172:36633/2/video/index.m3u8
-爆谷台,http://77.90.60.172:36633/1/video/index.m3u8
 NOW星影台,http://173.208.234.146/live/nowxy.m3u8
 NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
