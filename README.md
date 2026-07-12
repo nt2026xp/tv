@@ -1,3 +1,5 @@
+4gtv  https://ha.msbot.dpdns.org/4gtv_api.php
+
 EPG https://epg.pw/xmltv/epg_CN.xml
 
 
