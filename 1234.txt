@@ -18,8 +18,9 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 民視旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 愛爾達生活旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=237
-靖天日本台,https://ha.msbot.dpdns.org/4gtv_api.php?id=22
+Love Nature,https://ha.msbot.dpdns.org/4gtv_api.php?id=139
 
+靖天日本台,https://ha.msbot.dpdns.org/4gtv_api.php?id=22
 靖天育樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=83
 靖天映畫台,https://ha.msbot.dpdns.org/4gtv_api.php?id=42
 靖天國際台,https://ha.msbot.dpdns.org/4gtv_api.php?id=84
