@@ -6,16 +6,6 @@
 柯南國語,https://live.ottiptv.cc/huya/30080148
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 
-龍華電影,https://cdn8.163189.xyz/163189/lhdy
-龍華經典,https://cdn8.163189.xyz/163189/lhjd
-龍華洋片,https://cdn8.163189.xyz/163189/lhyp
-龍華日韓,https://cdn8.163189.xyz/163189/lhrh
-龍華戲劇,https://cdn8.163189.xyz/163189/lhxj
-龍華偶像,https://cdn8.163189.xyz/163189/lhox
-龍華卡通,https://cdn8.163189.xyz/163189/lhkt
-
-星影台,http://77.90.60.172:36633/2/video/index.m3u8
-爆谷台,http://77.90.60.172:36633/1/video/index.m3u8
 NOW星影台,http://173.208.234.146/live/nowxy.m3u8
 NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 
@@ -114,14 +104,6 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 靖洋戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=118
 靖天卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=15
 靖洋卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=59
-
-龍華電影,https://cdn8.163189.xyz/163189/lhdy
-龍華經典,https://cdn8.163189.xyz/163189/lhjd
-龍華洋片,https://cdn8.163189.xyz/163189/lhyp
-龍華日韓,https://cdn8.163189.xyz/163189/lhrh
-龍華戲劇,https://cdn8.163189.xyz/163189/lhxj
-龍華偶像,https://cdn8.163189.xyz/163189/lhox
-龍華卡通,https://cdn8.163189.xyz/163189/lhkt
 
 TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 TVBS台劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
