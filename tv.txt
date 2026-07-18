@@ -106,6 +106,16 @@ Love Nature,https://ha.msbot.dpdns.org/4gtv_api.php?id=139
 靖天卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=15
 靖洋卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=59
 
+亞洲旅遊台,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv076
+Smart知識台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang19
+龍華經典台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang21
+龍華電影台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang03
+龍華洋片台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang02
+龍華偶像台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang12
+龍華日韓台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang11
+龍華戲劇台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang18
+龍華卡通台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang01
+
 TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 TVBS台劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
 TVBS精采台,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
