@@ -13,6 +13,7 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 寰宇台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 鏡新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 
+Love Nature,https://ha.msbot.dpdns.org/4gtv_api.php?id=139
 華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
 民視旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
