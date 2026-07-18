@@ -373,7 +373,7 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
 富士山忍野八海,https://www.youtube.com/watch?v=PxzwnWh1dKk
 
-4gtv,#genre#
+4gtv頻道,#genre#
 
 ABC Australia 澳洲公廣頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=498
 amc電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=39
@@ -518,3 +518,26 @@ TVBS歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 韓國娛樂台 KMTV,https://ha.msbot.dpdns.org/4gtv_api.php?id=446
 鏡電視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
+
+
+ofiii頻道,#genre#
+
+華視,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv041
+中視,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv040
+亞洲旅遊台,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv076
+Smart知識台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang19
+龍華經典台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang21
+龍華電影台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang03
+龍華洋片台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang02
+龍華偶像台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang12
+龍華日韓台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang11
+龍華戲劇台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang18
+龍華卡通台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang01
+華視新聞,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv052
+中視新聞,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv074
+三立新聞iNEWS,https://ha.msbot.dpdns.org/ofiii.php?id=iNEWS
+中天新聞台,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv009
+鏡電視新聞台,https://ha.msbot.dpdns.org/ofiii.php?id=mnews
+寰宇新聞台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-longturn14
+寰宇台灣台,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv156
+寰宇財經台,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv158
