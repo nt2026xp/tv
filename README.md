@@ -1,3 +1,9 @@
+ofiii https://ha.msbot.dpdns.org/ofiii.php
+
+
+4gtv https://ha.msbot.dpdns.org/4gtv_api.php
+
+
 Love Nature,https://ha.msbot.dpdns.org/4gtv_api.php?id=139
 
 4gtv  https://ha.msbot.dpdns.org/4gtv_api.php
