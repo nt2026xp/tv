@@ -22,7 +22,7 @@ EPG https://epg.pw/xmltv/epg_CN.xml
 直播源 https://github.com/FGBLH/GHK
 
 
-直播源  [https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚666.json](https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok%E6%B5%B7%E8%B1%9A%E6%97%A018%E5%8A%A0.json)
+直播源  https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok%E6%B5%B7%E8%B1%9A%E6%97%A018%E5%8A%A0.json
 
 佛繫收集，免費分享 https://yang-1989.eu.org
 
