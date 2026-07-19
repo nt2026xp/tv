@@ -1,4 +1,5 @@
 4gtv,#genre#
+parse=1
 
 ABC Australia 澳洲公廣頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=498
 amc電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=39
