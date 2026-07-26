@@ -139,6 +139,8 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 
 ===============
 
+夏天2群 https://t.me/televisoon2
+
 gray  https://t.me/garyshare
 直播源 
 @cniptv_group
@@ -161,6 +163,7 @@ IPTV直播源总部 https://t.me/iptvofficalgroup
 (垃圾群) 智能電視盒子 https://t.me/meitu007
 
 (垃圾群)juli直播源 https://t.me/tvzby
+
 
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
