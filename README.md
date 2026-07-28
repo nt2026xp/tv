@@ -138,7 +138,7 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 4gtv "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 ===============
-
+夏天1群 https://t.me/mejo168
 夏天2群 https://t.me/televisoon2
 
 gray  https://t.me/garyshare
