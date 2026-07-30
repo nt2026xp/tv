@@ -4,42 +4,20 @@
 
 台視,https://m.youtube.com/watch?v=uDqQo8a7Xmk
 
-
 ofiii https://ha.msbot.dpdns.org/ofiii.php
-
 
 4gtv https://ha.msbot.dpdns.org/4gtv_api.php
 
-
 Love Nature,https://ha.msbot.dpdns.org/4gtv_api.php?id=139
-
-4gtv  https://ha.msbot.dpdns.org/4gtv_api.php
-
-EPG https://epg.pw/xmltv/epg_CN.xml
 
 
 "ads": [
 
         "static-mozai.4gtv.tv"
 
-【cniptv全网通】为防止被滥用，必须通过TG机器人获取专属订阅链接：@cniptv_usercenter_bot
-注：①私聊机器人前请仔细阅读注意事项及申请格式。②仅限个人使用，如果分享可能会导致被TG账号进入黑名单，并且无法再次获取此订阅。
-
-
 直播源 https://github.com/FGBLH/GHK
 
-
 直播源  https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok%E6%B5%B7%E8%B1%9A%E6%97%A018%E5%8A%A0.json
-
-佛繫收集，免費分享 https://yang-1989.eu.org
-
-直播源 https://iptv.yang-1989.eu.org/m3u/Gather.m3u
-
-直播源   http://www.饭太硬.cc/tv
-
-直播源   http://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
-EPG http://epg.dy2.fun:5678
 
 EPG https://epg.zsdc.eu.org/t.xml
 
@@ -51,39 +29,10 @@ EPG https://epg.zsdc.eu.org/t.xml
 
 13新聞,https://tv.cctv.com/live/cctv13/index.shtml
 
-CCTV-4中文国际（欧）,https://tv.cctv.com/live/cctveurope/index.shtml
-
-CCTV-4中文国际（美）,https://tv.cctv.com/live/cctvamerica/index.shtml
-
-ipv4 央視衛視 https://raw.githubusercontent.com/alantang1977/aTV/refs/heads/master/output/ipv4/result.txt
-
-github https://github.com/alantang1977/X
-
-ofiii https://github.com/alantang1977/X/blob/main/X.json
-
-CCTV-1综合,https://www.yangshipin.cn/tv/home?pid=600001859
-
-CCTV-9纪录,https://www.yangshipin.cn/tv/home?pid=600004078
-
-CCTV-10科教,https://www.yangshipin.cn/tv/home?pid=600001805
-
-CCTV-13 新闻,https://www.yangshipin.cn/tv/home?pid=600001811
-
-风云试看,http://iptv.4666888.xyz/FYTV.txt
-
-风云试看,http://iptv.4666888.xyz/FYTV.m3u
-
-風雲試看,http://iptv.4666888.xyz/FYTV.txt
-
-風雲試看,http://iptv.4666888.xyz/FYTV.m3u
-
 =================
 
 TVBox配置接口解密 https://ua.fongmi.eu.org
 
-X https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
-
-++++++++
 
 肥羊推荐的iptv替代品（机器人获取）：
 
@@ -134,8 +83,6 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 台灣直播源 https://freetv.fun/test_channels_taiwan_new.txt
 
 大陸直播源 https://freetv.fun/test_channels_china.txt
-
-4gtv "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 ===============
 
