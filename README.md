@@ -23,6 +23,10 @@ EPG https://epg.zsdc.eu.org/t.xml
 
 /index.shtml
 
+1綜合 https://tv.cctv.com/live/cctv1/index.shtml
+
+2財經 https://tv.cctv.com/live/cctv2/index.shtml
+
 9紀錄 https://tv.cctv.com/live/cctvjilu/index.shtml
 
 10科教,https://tv.cctv.com/live/cctv10/index.shtml
