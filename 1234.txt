@@ -126,16 +126,16 @@ Smart知識台,https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang19
 寰宇台灣台,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv156
 寰宇財經台,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv158
 
-天光央視,#genre#
+央視,#genre#
 
+CCTV4K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264	
+CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816	
 CCTV-1综合,webview://https://tv.cctv.com/live/cctv1/index.shtml
 CCTV-2财经,webview://https://tv.cctv.com/live/cctv2/index.shtml
 CCTV-3综艺,webview://https://tv.cctv.com/live/cctv3/index.shtml
 CCTV-4中文国际,webview://https://tv.cctv.com/live/cctv4/index.shtml
 CCTV-4欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV-4美洲,webview://https://tv.cctv.com/live/cctvamerica/index.shtml
-CCTV-5体育,webview://https://tv.cctv.com/live/cctv5/index.shtml
-CCTV-5+体育赛事,webview://https://tv.cctv.com/live/cctv5plus/index.shtml
 CCTV-6电影,webview://https://tv.cctv.com/live/cctv6/index.shtml
 CCTV-7国防军事,webview://https://tv.cctv.com/live/cctv7/index.shtml
 CCTV-8电视剧,webview://https://tv.cctv.com/live/cctv8/index.shtml
@@ -146,12 +146,11 @@ CCTV-12社会与法,webview://https://tv.cctv.com/live/cctv12/index.shtml
 CCTV-13新闻,webview://https://tv.cctv.com/live/cctv13/index.shtml
 CCTV-14少儿,webview://https://tv.cctv.com/live/cctvchild/index.shtml
 CCTV-15音乐,webview://https://tv.cctv.com/live/cctv15/index.shtml
-CCTV-16奥林匹克,webview://https://tv.cctv.com/live/cctv16/index.shtml
 CCTV-17农业农村,webview://https://tv.cctv.com/live/cctv17/index.shtml
+CCTV-风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099658
+CCTV-第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
+CCTV-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 
-风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099658
-第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 
 天光衛視,#genre#
 
