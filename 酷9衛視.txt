@@ -1,4 +1,4 @@
-衛視,#genre#
+酷9衛視,#genre#
 
 江苏卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002521
 浙江卫视,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002520
