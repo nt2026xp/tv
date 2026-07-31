@@ -1,4 +1,4 @@
-央視,#genre#
+酷9央視,#genre#
 
 CCTV-1综合,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1/index.shtml
 CCTV-2财经,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv2/index.shtml
