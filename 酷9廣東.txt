@@ -1,6 +1,4 @@
 酷9廣東,#genre#
-parse=1
-
 
 广东影视,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/53
 广东卫视,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/43
