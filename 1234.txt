@@ -186,3 +186,21 @@ CCTV-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
 
+
+CCTV,#genre#
+
+CCTV-1,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv1/playlist.m3u8
+CCTV-2,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv2/playlist.m3u8
+CCTV-3,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv3/playlist.m3u8
+CCTV-4,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv4/playlist.m3u8
+CCTV-6,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv6/playlist.m3u8
+CCTV-7,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv7/playlist.m3u8
+CCTV-8,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv8/playlist.m3u8
+CCTV-9,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv9/playlist.m3u8
+CCTV-10,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv10/playlist.m3u8
+CCTV-11,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv11/playlist.m3u8
+CCTV-12,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv12/playlist.m3u8
+CCTV-13,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv13/playlist.m3u8
+CCTV-14,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv14/playlist.m3u8
+CCTV-15,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv15/playlist.m3u8
+CCTV-17,http://favourite-rodina-kk01xp-3b846f2d.koyeb.app/cctv17/playlist.m3u8
