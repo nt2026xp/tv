@@ -1,7 +1,7 @@
 直播源 https://github.com/FGBLH/GHK
 
-直播源 https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok%E6%B5%B7%E8%B1%9A%E6%97%A018%E5%8A%A0.json
-
+直播源 [https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/ok%E6%B5%B7%E8%B1%9A%E6%97%A018%E5%8A%A0.json
+](https://github.com/FGBLH/HKL/blob/main/ok%E6%B5%B7%E8%B1%9A665.json)
 
 直播源  https://github.com/caliph21/caliph21.github.io
 
