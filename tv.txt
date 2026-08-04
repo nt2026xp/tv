@@ -391,9 +391,9 @@ CCTV-14高清,https://yspios.hots.dpdns.org/?id=cctv14|ua=qqlive
 CCTV-15高清,https://yspios.hots.dpdns.org/?id=cctv15|ua=qqlive
 CCTV-17高清,https://yspios.hots.dpdns.org/?id=cctv17|ua=qqlive
 
-CCTV风云剧场,https://yspios.hots.dpdns.org/?id=cctvfyjc|ua=qqlive
-CCTV第一剧场,https://yspios.hots.dpdns.org/?id=cctvdyjc|ua=qqlive
-CCTV怀旧剧场,https://yspios.hots.dpdns.org/?id=cctvhjjc|ua=qqlive
+CCTV-风云剧场,https://yspios.hots.dpdns.org/?id=cctvfyjc|ua=qqlive
+CCTV-第一剧场,https://yspios.hots.dpdns.org/?id=cctvdyjc|ua=qqlive
+CCTV-怀旧剧场,https://yspios.hots.dpdns.org/?id=cctvhjjc|ua=qqlive
 
 1080衛視,#genre#
 
