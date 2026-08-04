@@ -82,6 +82,7 @@ TVBS精采台,udp://@230.1.2.35:11111
 
 4gtv1080,#genre#
 
+東森幼幼台,http://211.23.95.147:18881/live/25_h265.ts
 TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
