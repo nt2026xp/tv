@@ -264,3 +264,26 @@ CCTV-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
 
+
+
+bztv央視,#genre#
+
+CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+CCTV-3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+CCTV-4,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+CCTV-5,http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+CCTV-5+,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
+CCTV-6,http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+CCTV-7,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
+CCTV-8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+CCTV-9,http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+CCTV-10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+CCTV-11,http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+CCTV-12,http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+CCTV-13,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+CCTV-14,http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+CCTV-15,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+CCTV-16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
+CCTV-17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
+
