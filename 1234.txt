@@ -134,8 +134,6 @@ CCTV-1综合,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv1
 CCTV-2财经,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv2
 CCTV-3综艺,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv3
 CCTV-4中文国际,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv4
-xCCTV-5体育,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv5
-xCCTV-5+体育赛事,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv5p
 CCTV-6电影,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv6
 CCTV-7国防军事,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv7
 CCTV-8电视剧,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv8
@@ -146,7 +144,6 @@ CCTV-12社会与法,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv
 CCTV-13新闻,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv13
 CCTV-14少儿,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv14
 CCTV-15音乐,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv15
-CCTV-16奥林匹克,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv16
 CCTV-17农业农村,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv17
 
 CCTV-风云剧场,http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctvfyjc
