@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5, user-scalable=yes">
+  <title>央視頻道 · 直播入口</title>
+  <style>
+    /* 全域 reset & 字型 */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: #0b0e14;
+      color: #e8edf5;
+      padding: 1.8rem 1.2rem 3rem;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .container {
+      max-width: 1000px;
+      width: 100%;
+    }
+
+    /* 標題區域 */
+    .header {
+      text-align: center;
+      margin-bottom: 2.5rem;
+      border-bottom: 2px solid #2a3346;
+      padding-bottom: 1.2rem;
+    }
+
+    .header h1 {
+      font-size: 2.2rem;
+      font-weight: 600;
+      letter-spacing: 2px;
+      background: linear-gradient(135deg, #f0c27f, #fc4a1a);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      display: inline-block;
+    }
+
+    .header p {
+      margin-top: 0.5rem;
+      color: #8892a8;
+      font-size: 1rem;
+      letter-spacing: 1px;
+    }
+
+    .header p span {
+      background: #1e2638;
+      padding: 0.2rem 1rem;
+      border-radius: 30px;
+      font-weight: 500;
+      color: #cbd5e1;
+    }
+
+    /* 頻道卡片網格 */
+    .channel-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 1.2rem;
+      margin-top: 0.8rem;
+    }
+
+    .channel-card {
+      background: #151e2c;
+      border-radius: 20px;
+      padding: 1.2rem 1rem 1rem 1.2rem;
+      box-shadow: 0 8px 18px rgba(0, 0, 0, 0.6);
+      border-left: 6px solid #fc4a1a;
+      transition: transform 0.15s ease, box-shadow 0.2s, background 0.15s;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 110px;
+    }
+
+    .channel-card:hover {
+      transform: translateY(-4px);
+      background: #1c273b;
+      box-shadow: 0 14px 24px rgba(0, 0, 0, 0.8);
+      border-left-color: #f0c27f;
+    }
+
+    /* 頻道編號與名稱 */
+    .channel-name {
+      display: flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+    }
+
+    .channel-number {
+      font-size: 0.9rem;
+      font-weight: 600;
+      background: #2a3346;
+      padding: 0.1rem 0.7rem;
+      border-radius: 40px;
+      color: #facc15;
+      letter-spacing: 0.5px;
+    }
+
+    .channel-title {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: #f0f4fe;
+      letter-spacing: 0.3px;
+    }
+
+    /* 連結按鈕 */
+    .channel-link {
+      margin-top: 0.8rem;
+      align-self: flex-start;
+      background: #2a3a55;
+      padding: 0.35rem 1.2rem;
+      border-radius: 40px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: #d6e0f0;
+      text-decoration: none;
+      transition: all 0.2s;
+      border: 1px solid #3e4d6b;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      letter-spacing: 0.3px;
+    }
+
+    .channel-link:hover {
+      background: #fc4a1a;
+      color: #fff;
+      border-color: #fc4a1a;
+      box-shadow: 0 0 16px rgba(252, 74, 26, 0.4);
+    }
+
+    .channel-link::after {
+      content: " ▶";
+      font-size: 0.7rem;
+      opacity: 0.8;
+    }
+
+    /* 特殊頻道標記 (例如少兒使用 child 連結) */
+    .channel-card.special {
+      border-left-color: #4fc3f7;
+    }
+
+    .channel-card.special .channel-link:hover {
+      background: #4fc3f7;
+      border-color: #4fc3f7;
+      color: #0b0e14;
+    }
+
+    /* 底部說明 */
+    .footer-note {
+      margin-top: 3.2rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #1e273a;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #6b7a94;
+      width: 100%;
+    }
+
+    .footer-note a {
+      color: #8aa2d9;
+      text-decoration: none;
+      border-bottom: 1px dotted #3a4a66;
+    }
+
+    .footer-note a:hover {
+      color: #facc15;
+    }
+
+    /* 手機微調 */
+    @media (max-width: 600px) {
+      body { padding: 1.2rem 0.8rem 2rem; }
+      .header h1 { font-size: 1.8rem; }
+      .channel-grid { grid-template-columns: 1fr; }
+      .channel-card { min-height: 100px; }
+    }
+
+    /* 載入字體平滑 */
+    @media (prefers-reduced-motion: reduce) {
+      .channel-card { transition: none; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <!-- 標題 -->
+  <div class="header">
+    <h1>📡 央視頻道 · 直播</h1>
+    <p><span>CCTV 系列</span> 官方直播入口 — 點擊即可觀看</p>
+  </div>
+
+  <!-- 頻道列表：手動建立，完全對應您提供的 15 個頻道 -->
+  <div class="channel-grid">
+    <!-- 1. CCTV-1 綜合 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-1</span>
+        <span class="channel-title">綜合</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv1/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 2. CCTV-2 財經 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-2</span>
+        <span class="channel-title">財經</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv2/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 3. CCTV-3 綜藝 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-3</span>
+        <span class="channel-title">綜藝</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv3/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 4. CCTV-4 中文國際 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-4</span>
+        <span class="channel-title">中文國際</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv4/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 5. CCTV-6 電影 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-6</span>
+        <span class="channel-title">電影</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv6/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 6. CCTV-7 國防軍事 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-7</span>
+        <span class="channel-title">國防軍事</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv7/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 7. CCTV-8 電視劇 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-8</span>
+        <span class="channel-title">電視劇</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv8/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 8. CCTV-9 紀錄 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-9</span>
+        <span class="channel-title">紀錄</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctvjilu/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 9. CCTV-10 科教 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-10</span>
+        <span class="channel-title">科教</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv10/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 10. CCTV-11 戲曲 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-11</span>
+        <span class="channel-title">戲曲</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv11/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 11. CCTV-12 社會與法 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-12</span>
+        <span class="channel-title">社會與法</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv12/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 12. CCTV-13 新聞 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-13</span>
+        <span class="channel-title">新聞</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv13/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 13. CCTV-14 少兒 (特殊連結 cctvchild) -->
+    <div class="channel-card special">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-14</span>
+        <span class="channel-title">少兒</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctvchild/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 14. CCTV-15 音樂 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-15</span>
+        <span class="channel-title">音樂</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv15/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+
+    <!-- 15. CCTV-17 農業農村 -->
+    <div class="channel-card">
+      <div class="channel-name">
+        <span class="channel-number">CCTV-17</span>
+        <span class="channel-title">農業農村</span>
+      </div>
+      <a class="channel-link" href="https://tv.cctv.com/live/cctv17/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+    </div>
+  </div>
+
+  <!-- 底部提示 -->
+  <div class="footer-note">
+    <p>💡 點擊「觀看直播」將前往央視官方頁面 · 建議使用 <strong>極速模式</strong> 或 <strong>央視影音 APP</strong></p>
+    <p style="margin-top: 0.5rem; font-size: 0.8rem;">
+      本頁面僅為連結彙整，所有內容版權歸 <a href="https://www.cctv.com" target="_blank" rel="noopener noreferrer">CCTV</a> 所有。
+    </p>
+  </div>
+</div>
+</body>
+</html>
