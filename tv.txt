@@ -15,6 +15,10 @@
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=6TsaEYaKueE
 
+華視,http://211.23.95.147:18881/live/dtv18_h265.ts
+中視,http://211.23.95.147:18881/live/dtv1_h265.ts
+台視,http://211.23.95.147:18881/live/dtv14_h265.ts
+
 水滸傳,https://www.youtube.com/live/iB3UrC395bY?si=JMqsf2yqI2I6GdWO
 西遊記,https://www.youtube.com/watch?v=UgOi92IvONg
 朱元璋,https://www.youtube.com/watch?v=ZbJOHuhzxkU
@@ -99,6 +103,9 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 
 華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
+華視,http://211.23.95.147:18881/live/dtv18_h265.ts
+中視,http://211.23.95.147:18881/live/dtv1_h265.ts
+台視,http://211.23.95.147:18881/live/dtv14_h265.ts
 民視旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 亞洲旅遊台,https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv076
