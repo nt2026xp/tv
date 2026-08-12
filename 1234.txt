@@ -6,7 +6,6 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 東森財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=293
 民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=31
 三立財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
-中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
 華視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=34
 中視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=33
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
