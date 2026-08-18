@@ -4,9 +4,7 @@
 櫻桃小丸子,https://live.ottiptv.cc/huya/11342394
 
 柯南,https://live.ottiptv.cc/huya/31334229
-
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
-李小龍電影,https://www.youtube.com/watch?v=_Q1y2sPwDPA
 
 蠟筆小新TV版,https://www.youtube.com/watch?v=aoE015fWDac
 我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
@@ -19,7 +17,7 @@
 中視,http://211.23.95.147:18881/live/dtv1_h265.ts
 台視,http://211.23.95.147:18881/live/dtv14_h265.ts
 
-水滸傳,https://www.youtube.com/live/iB3UrC395bY?si=JMqsf2yqI2I6GdWO
+水滸傳,https://www.youtube.com/live/iB3UrC395bY
 西遊記,https://www.youtube.com/watch?v=UgOi92IvONg
 朱元璋,https://www.youtube.com/watch?v=ZbJOHuhzxkU
 雍正王朝,https://www.youtube.com/watch?v=RGCaUT6-hqU
