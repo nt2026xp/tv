@@ -1,3 +1,5 @@
+CCTV13新聞,https://www.youtube.com/watch?v=mhpnZZf-XYU
+
 直播源 https://github.com/FGBLH/GHK
 
 直播源 
