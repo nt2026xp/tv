@@ -191,6 +191,7 @@ TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
 
 台灣油管,#genre#
 
+CCTV13新聞,https://www.youtube.com/watch?v=mhpnZZf-XYU
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
