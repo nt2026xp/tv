@@ -97,11 +97,8 @@ TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
 寰宇台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 鏡新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
-CCTV13新聞,https://www.youtube.com/watch?v=mhpnZZf-XYU
 
-華視,http://211.23.95.147:18881/live/dtv18_h265.ts
-中視,http://211.23.95.147:18881/live/dtv1_h265.ts
-台視,http://211.23.95.147:18881/live/dtv14_h265.ts
+
 華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
 民視旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
