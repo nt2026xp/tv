@@ -60,10 +60,6 @@ okHttp/Mod-1.5.0.0
 
 (垃圾群)IPTV直播源总部 https://t.me/iptvofficalgroup
 
-(垃圾群)夏天1群 https://t.me/mejo168
-
-(垃圾群)夏天2群 https://t.me/televisoon2
-
 ＋＋＋＋＋＋＋＋＋
 
 訂閱頻道
