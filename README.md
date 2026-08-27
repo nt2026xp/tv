@@ -1,4 +1,4 @@
-CCTV13新聞,https://www.youtube.com/watch?v=mhpnZZf-XYU
+
 
 直播源 https://github.com/FGBLH/GHK
 
@@ -39,8 +39,6 @@ okHttp/Mod-1.5.0.0
 
 
 海豚py研究所 https://t.me/hshsjk9
-
-海豚py分享 https://t.me/pyvmjlq
 
 (垃圾群) 极致播放器交流群 https://t.me/jizhi00
 
