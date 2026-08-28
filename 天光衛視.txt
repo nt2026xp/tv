@@ -14,6 +14,7 @@
 东南卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002484
 四川卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002516
 宁夏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190737
+甘肃卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190408
 吉林卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190405
 安徽卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002532
 江西卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002503
