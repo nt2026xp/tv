@@ -13,6 +13,13 @@
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=6TsaEYaKueE
 
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+華視,rtmp://f13h.mine.nu/sat/tv111
+中視,rtmp://f13h.mine.nu/sat/tv091
+台視,rtmp://f13h.mine.nu/sat/tv071
+
 華視,http://211.23.95.147:18881/live/dtv18_h265.ts
 中視,http://211.23.95.147:18881/live/dtv1_h265.ts
 台視,http://211.23.95.147:18881/live/dtv14_h265.ts
