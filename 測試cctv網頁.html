@@ -1,351 +1,2475 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5, user-scalable=yes">
-  <title>央視頻道 · 直播入口</title>
-  <style>
-    /* 全域 reset & 字型 */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width,
+               initial-scale=1.0,
+               maximum-scale=1.0,
+               user-scalable=no">
+
+<meta name="theme-color" content="#080a0f">
+
+<title>央視 · 衛視 HLS 直播</title>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+
+/* =========================================================
+   基礎
+   ========================================================= */
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100%;
+
+    background: #080a0f;
+    color: #fff;
+
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        "Microsoft YaHei",
+        Arial,
+        sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+
+/* =========================================================
+   頂部
+   ========================================================= */
+
+.header {
+    height: 58px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 20px;
+
+    background: #10131a;
+
+    border-bottom: 1px solid #252a34;
+
+    position: sticky;
+    top: 0;
+
+    z-index: 100;
+}
+
+.logo {
+    font-size: 19px;
+    font-weight: 700;
+    letter-spacing: .5px;
+}
+
+.logo span {
+    color: #2196f3;
+}
+
+.header-status {
+    font-size: 13px;
+    color: #8f98a8;
+}
+
+
+/* =========================================================
+   播放區
+   ========================================================= */
+
+.player-container {
+    width: 100%;
+    max-width: 1500px;
+
+    margin: 0 auto;
+
+    background: #000;
+}
+
+.player {
+    position: relative;
+
+    width: 100%;
+
+    aspect-ratio: 16 / 9;
+
+    background: #000;
+
+    overflow: hidden;
+}
+
+video {
+    width: 100%;
+    height: 100%;
+
+    display: block;
+
+    background: #000;
+
+    object-fit: contain;
+}
+
+
+/* =========================================================
+   Loading
+   ========================================================= */
+
+.loading {
+    position: absolute;
+
+    inset: 0;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    gap: 14px;
+
+    background: rgba(0, 0, 0, .55);
+
+    z-index: 5;
+
+    transition: opacity .25s;
+}
+
+.loading.hide {
+    opacity: 0;
+
+    pointer-events: none;
+}
+
+.spinner {
+    width: 42px;
+    height: 42px;
+
+    border-radius: 50%;
+
+    border: 4px solid rgba(255,255,255,.2);
+
+    border-top-color: #2196f3;
+
+    animation: spin .8s linear infinite;
+}
+
+.loading-text {
+    color: #ddd;
+
+    font-size: 14px;
+}
+
+@keyframes spin {
+
+    to {
+        transform: rotate(360deg);
     }
 
-    body {
-      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-      background: #0b0e14;
-      color: #e8edf5;
-      padding: 1.8rem 1.2rem 3rem;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+}
+
+
+/* =========================================================
+   播放器提示
+   ========================================================= */
+
+.message {
+    position: absolute;
+
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+
+    width: min(90%, 500px);
+
+    padding: 18px;
+
+    text-align: center;
+
+    background: rgba(0,0,0,.85);
+
+    border: 1px solid #343a46;
+
+    border-radius: 10px;
+
+    color: #ddd;
+
+    display: none;
+
+    z-index: 10;
+}
+
+.message.show {
+    display: block;
+}
+
+.message-title {
+    color: #fff;
+
+    font-weight: 700;
+
+    margin-bottom: 8px;
+}
+
+.message-text {
+    font-size: 13px;
+
+    line-height: 1.7;
+
+    color: #aeb6c4;
+}
+
+
+/* =========================================================
+   央視 / 衛視獨立按鈕
+   ========================================================= */
+
+.player-category {
+    max-width: 1500px;
+
+    margin: 0 auto;
+
+    padding: 10px 16px;
+
+    background: #0d1016;
+
+    display: flex;
+
+    gap: 8px;
+
+    border-bottom: 1px solid #252a34;
+}
+
+.category-btn {
+    flex: 1;
+
+    max-width: 160px;
+
+    padding: 9px 18px;
+
+    border: 1px solid #303744;
+
+    border-radius: 7px;
+
+    background: #191e27;
+
+    color: #9da6b5;
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        background .2s,
+        color .2s,
+        border .2s,
+        transform .2s;
+}
+
+.category-btn:hover {
+    background: #232b38;
+
+    color: #fff;
+
+    border-color: #3a91d8;
+}
+
+.category-btn:active {
+    transform: scale(.97);
+}
+
+.category-btn.active {
+    background: #1565c0;
+
+    color: #fff;
+
+    border-color: #42a5f5;
+
+    box-shadow:
+        0 0 12px rgba(33,150,243,.25);
+}
+
+
+/* =========================================================
+   播放器下方資訊
+   ========================================================= */
+
+.player-info {
+    max-width: 1500px;
+
+    margin: 0 auto;
+
+    padding: 11px 16px;
+
+    background: #10131a;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 12px;
+}
+
+.current-channel {
+    font-size: 15px;
+
+    font-weight: 600;
+}
+
+.live {
+    color: #ef5350;
+
+    font-size: 12px;
+
+    margin-right: 6px;
+}
+
+.player-buttons {
+    display: flex;
+
+    gap: 7px;
+}
+
+.btn {
+    border: 1px solid #303744;
+
+    background: #191e27;
+
+    color: #fff;
+
+    padding: 8px 13px;
+
+    border-radius: 6px;
+
+    cursor: pointer;
+
+    font-size: 13px;
+
+    transition: .2s;
+}
+
+.btn:hover {
+    background: #263142;
+
+    border-color: #2196f3;
+}
+
+.btn:active {
+    transform: scale(.97);
+}
+
+
+/* =========================================================
+   頻道區
+   ========================================================= */
+
+.container {
+    width: 100%;
+
+    max-width: 1500px;
+
+    margin: 0 auto;
+
+    padding: 18px;
+}
+
+
+/* =========================================================
+   央視 / 衛視容器
+   ========================================================= */
+
+.channel-columns {
+    display: block;
+
+    width: 100%;
+}
+
+
+/* =========================================================
+   分類卡片
+   ========================================================= */
+
+.channel-section {
+    width: 100%;
+
+    background: #10131a;
+
+    border: 1px solid #242a34;
+
+    border-radius: 10px;
+
+    overflow: hidden;
+}
+
+.section-header {
+    height: 48px;
+
+    padding: 0 15px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: flex-start;
+
+    background: #151922;
+
+    border-bottom: 1px solid #252b36;
+}
+
+.section-title {
+    display: flex;
+
+    align-items: center;
+
+    gap: 9px;
+
+    font-size: 17px;
+
+    font-weight: 700;
+}
+
+.section-title::before {
+    content: "";
+
+    width: 4px;
+    height: 20px;
+
+    border-radius: 3px;
+
+    background: #2196f3;
+}
+
+
+/* =========================================================
+   頻道 Grid
+   ========================================================= */
+
+.channel-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    gap: 7px;
+
+    padding: 12px;
+}
+
+.channel {
+    min-width: 0;
+
+    padding: 11px 7px;
+
+    border-radius: 6px;
+
+    border: 1px solid #292f3a;
+
+    background: #171b23;
+
+    color: #cdd3dd;
+
+    font-size: 13px;
+
+    text-align: center;
+
+    cursor: pointer;
+
+    user-select: none;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+
+    transition:
+        background .18s,
+        border .18s,
+        color .18s,
+        transform .18s;
+}
+
+.channel:hover {
+    background: #202936;
+
+    color: #fff;
+
+    border-color: #3a91d8;
+
+    transform: translateY(-1px);
+}
+
+.channel.active {
+    color: #fff;
+
+    background: #1565c0;
+
+    border-color: #42a5f5;
+
+    box-shadow:
+        0 0 12px rgba(33,150,243,.25);
+}
+
+
+/* =========================================================
+   Fullscreen
+   ========================================================= */
+
+.player-container:fullscreen {
+    max-width: none;
+
+    width: 100vw;
+
+    height: 100vh;
+
+    background: #000;
+}
+
+.player-container:fullscreen .player {
+    width: 100vw;
+
+    height: 100vh;
+
+    aspect-ratio: auto;
+}
+
+
+/* =========================================================
+   平板
+   ========================================================= */
+
+@media (max-width: 1050px) {
+
+    .channel-grid {
+        grid-template-columns:
+            repeat(2, 1fr);
+    }
+
+}
+
+
+/* =========================================================
+   手機
+   ========================================================= */
+
+@media (max-width: 760px) {
+
+    .header {
+        height: 50px;
+
+        padding: 0 12px;
+    }
+
+    .logo {
+        font-size: 16px;
+    }
+
+    .header-status {
+        font-size: 11px;
     }
 
     .container {
-      max-width: 1000px;
-      width: 100%;
+        padding: 10px;
     }
 
-    /* 標題區域 */
-    .header {
-      text-align: center;
-      margin-bottom: 2.5rem;
-      border-bottom: 2px solid #2a3346;
-      padding-bottom: 1.2rem;
-    }
-
-    .header h1 {
-      font-size: 2.2rem;
-      font-weight: 600;
-      letter-spacing: 2px;
-      background: linear-gradient(135deg, #f0c27f, #fc4a1a);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      display: inline-block;
-    }
-
-    .header p {
-      margin-top: 0.5rem;
-      color: #8892a8;
-      font-size: 1rem;
-      letter-spacing: 1px;
-    }
-
-    .header p span {
-      background: #1e2638;
-      padding: 0.2rem 1rem;
-      border-radius: 30px;
-      font-weight: 500;
-      color: #cbd5e1;
-    }
-
-    /* 頻道卡片網格 */
     .channel-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-      gap: 1.2rem;
-      margin-top: 0.8rem;
+        grid-template-columns:
+            repeat(2, 1fr);
+
+        gap: 7px;
+
+        padding: 9px;
     }
 
-    .channel-card {
-      background: #151e2c;
-      border-radius: 20px;
-      padding: 1.2rem 1rem 1rem 1.2rem;
-      box-shadow: 0 8px 18px rgba(0, 0, 0, 0.6);
-      border-left: 6px solid #fc4a1a;
-      transition: transform 0.15s ease, box-shadow 0.2s, background 0.15s;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      min-height: 110px;
+    .channel {
+        padding: 12px 5px;
+
+        font-size: 13px;
     }
 
-    .channel-card:hover {
-      transform: translateY(-4px);
-      background: #1c273b;
-      box-shadow: 0 14px 24px rgba(0, 0, 0, 0.8);
-      border-left-color: #f0c27f;
+    .player-category {
+        padding: 8px 10px;
+
+        gap: 7px;
     }
 
-    /* 頻道編號與名稱 */
-    .channel-name {
-      display: flex;
-      align-items: baseline;
-      gap: 0.4rem;
-      flex-wrap: wrap;
+    .category-btn {
+        max-width: none;
+
+        padding: 8px 10px;
+
+        font-size: 13px;
     }
 
-    .channel-number {
-      font-size: 0.9rem;
-      font-weight: 600;
-      background: #2a3346;
-      padding: 0.1rem 0.7rem;
-      border-radius: 40px;
-      color: #facc15;
-      letter-spacing: 0.5px;
+    .player-info {
+        padding: 9px 10px;
     }
 
-    .channel-title {
-      font-size: 1.25rem;
-      font-weight: 600;
-      color: #f0f4fe;
-      letter-spacing: 0.3px;
+    .current-channel {
+        font-size: 13px;
     }
 
-    /* 連結按鈕 */
-    .channel-link {
-      margin-top: 0.8rem;
-      align-self: flex-start;
-      background: #2a3a55;
-      padding: 0.35rem 1.2rem;
-      border-radius: 40px;
-      font-size: 0.85rem;
-      font-weight: 500;
-      color: #d6e0f0;
-      text-decoration: none;
-      transition: all 0.2s;
-      border: 1px solid #3e4d6b;
-      display: inline-flex;
-      align-items: center;
-      gap: 0.3rem;
-      letter-spacing: 0.3px;
+    .btn {
+        padding: 7px 9px;
+
+        font-size: 12px;
     }
 
-    .channel-link:hover {
-      background: #fc4a1a;
-      color: #fff;
-      border-color: #fc4a1a;
-      box-shadow: 0 0 16px rgba(252, 74, 26, 0.4);
+}
+
+
+/* =========================================================
+   很小的手機
+   ========================================================= */
+
+@media (max-width: 380px) {
+
+    .channel {
+        font-size: 12px;
     }
 
-    .channel-link::after {
-      content: " ▶";
-      font-size: 0.7rem;
-      opacity: 0.8;
+    .player-buttons .btn {
+        padding: 6px 7px;
     }
 
-    /* 特殊頻道標記 (例如少兒使用 child 連結) */
-    .channel-card.special {
-      border-left-color: #4fc3f7;
+    .category-btn {
+        font-size: 12px;
+
+        padding: 7px 8px;
     }
 
-    .channel-card.special .channel-link:hover {
-      background: #4fc3f7;
-      border-color: #4fc3f7;
-      color: #0b0e14;
-    }
+}
 
-    /* 底部說明 */
-    .footer-note {
-      margin-top: 3.2rem;
-      padding-top: 1.5rem;
-      border-top: 1px solid #1e273a;
-      text-align: center;
-      font-size: 0.9rem;
-      color: #6b7a94;
-      width: 100%;
-    }
+</style>
 
-    .footer-note a {
-      color: #8aa2d9;
-      text-decoration: none;
-      border-bottom: 1px dotted #3a4a66;
-    }
-
-    .footer-note a:hover {
-      color: #facc15;
-    }
-
-    /* 手機微調 */
-    @media (max-width: 600px) {
-      body { padding: 1.2rem 0.8rem 2rem; }
-      .header h1 { font-size: 1.8rem; }
-      .channel-grid { grid-template-columns: 1fr; }
-      .channel-card { min-height: 100px; }
-    }
-
-    /* 載入字體平滑 */
-    @media (prefers-reduced-motion: reduce) {
-      .channel-card { transition: none; }
-    }
-  </style>
 </head>
+
+
 <body>
-<div class="container">
-  <!-- 標題 -->
-  <div class="header">
-    <h1>📡 央視頻道 · 直播</h1>
-    <p><span>CCTV 系列</span> 官方直播入口 — 點擊即可觀看</p>
-  </div>
 
-  <!-- 頻道列表：手動建立，完全對應您提供的 15 個頻道 -->
-  <div class="channel-grid">
-    <!-- 1. CCTV-1 綜合 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-1</span>
-        <span class="channel-title">綜合</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv1/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+
+<!-- =======================================================
+     頂部
+     ======================================================= -->
+
+<header class="header">
+
+    <div class="logo">
+
+        📺
+        <span>央視</span>
+        ·
+        <span>衛視</span>
+        直播
+
     </div>
 
-    <!-- 2. CCTV-2 財經 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-2</span>
-        <span class="channel-title">財經</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv2/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+
+    <div
+        class="header-status"
+        id="headerStatus">
+
+        HLS Player
+
     </div>
 
-    <!-- 3. CCTV-3 綜藝 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-3</span>
-        <span class="channel-title">綜藝</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv3/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
+</header>
+
+
+<!-- =======================================================
+     播放器
+     ======================================================= -->
+
+<div
+    class="player-container"
+    id="playerContainer">
+
+    <div class="player">
+
+        <video
+            id="video"
+            controls
+            playsinline
+            webkit-playsinline
+            x5-playsinline
+            x5-video-player-type="h5"
+            x5-video-player-fullscreen="true"
+            preload="auto">
+        </video>
+
+
+        <!-- Loading -->
+
+        <div
+            class="loading"
+            id="loading">
+
+            <div class="spinner"></div>
+
+            <div
+                class="loading-text"
+                id="loadingText">
+
+                正在連接直播...
+
+            </div>
+
+        </div>
+
+
+        <!-- 錯誤提示 -->
+
+        <div
+            class="message"
+            id="message">
+
+            <div class="message-title">
+                播放失敗
+            </div>
+
+            <div
+                class="message-text"
+                id="messageText">
+
+                正在重新連接...
+
+            </div>
+
+        </div>
+
     </div>
 
-    <!-- 4. CCTV-4 中文國際 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-4</span>
-        <span class="channel-title">中文國際</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv4/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 5. CCTV-6 電影 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-6</span>
-        <span class="channel-title">電影</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv6/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 6. CCTV-7 國防軍事 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-7</span>
-        <span class="channel-title">國防軍事</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv7/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 7. CCTV-8 電視劇 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-8</span>
-        <span class="channel-title">電視劇</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv8/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 8. CCTV-9 紀錄 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-9</span>
-        <span class="channel-title">紀錄</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctvjilu/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 9. CCTV-10 科教 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-10</span>
-        <span class="channel-title">科教</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv10/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 10. CCTV-11 戲曲 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-11</span>
-        <span class="channel-title">戲曲</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv11/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 11. CCTV-12 社會與法 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-12</span>
-        <span class="channel-title">社會與法</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv12/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 12. CCTV-13 新聞 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-13</span>
-        <span class="channel-title">新聞</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv13/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 13. CCTV-14 少兒 (特殊連結 cctvchild) -->
-    <div class="channel-card special">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-14</span>
-        <span class="channel-title">少兒</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctvchild/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 14. CCTV-15 音樂 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-15</span>
-        <span class="channel-title">音樂</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv15/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-
-    <!-- 15. CCTV-17 農業農村 -->
-    <div class="channel-card">
-      <div class="channel-name">
-        <span class="channel-number">CCTV-17</span>
-        <span class="channel-title">農業農村</span>
-      </div>
-      <a class="channel-link" href="https://tv.cctv.com/live/cctv17/index.shtml" target="_blank" rel="noopener noreferrer">觀看直播</a>
-    </div>
-  </div>
-
-  <!-- 底部提示 -->
-  <div class="footer-note">
-    <p>💡 點擊「觀看直播」將前往央視官方頁面 · 建議使用 <strong>極速模式</strong> 或 <strong>央視影音 APP</strong></p>
-    <p style="margin-top: 0.5rem; font-size: 0.8rem;">
-      本頁面僅為連結彙整，所有內容版權歸 <a href="https://www.cctv.com" target="_blank" rel="noopener noreferrer">CCTV</a> 所有。
-    </p>
-  </div>
 </div>
+
+
+<!-- =======================================================
+     央視 / 衛視獨立按鈕
+     ======================================================= -->
+
+<div class="player-category">
+
+    <button
+        class="category-btn active"
+        data-category="cctv"
+        id="cctvBtn">
+
+        📺 央視
+
+    </button>
+
+
+    <button
+        class="category-btn"
+        data-category="satellite"
+        id="satelliteBtn">
+
+        📡 衛視
+
+    </button>
+
+</div>
+
+
+<!-- =======================================================
+     當前頻道
+     ======================================================= -->
+
+<div class="player-info">
+
+    <div class="current-channel">
+
+        <span class="live">
+            ● LIVE
+        </span>
+
+        <span id="currentChannel">
+            尚未播放
+        </span>
+
+    </div>
+
+
+    <div class="player-buttons">
+
+        <button
+            class="btn"
+            id="reloadBtn">
+
+            ↻ 重播
+
+        </button>
+
+
+        <button
+            class="btn"
+            id="fullscreenBtn">
+
+            ⛶ 全螢幕
+
+        </button>
+
+    </div>
+
+</div>
+
+
+<!-- =======================================================
+     頻道列表
+     ======================================================= -->
+
+<div class="container">
+
+    <div class="channel-columns">
+
+
+        <!-- =================================================
+             央視
+             ================================================= -->
+
+        <section
+            class="channel-section"
+            id="cctvSection">
+
+            <div class="section-header">
+
+                <div class="section-title">
+                    央視 YSP
+                </div>
+
+            </div>
+
+
+            <div
+                class="channel-grid"
+                id="cctvList">
+
+
+                <div class="channel"
+                     data-name="CCTV-4K"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv4k">
+                    CCTV-4K
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-8K"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv8k">
+                    CCTV-8K
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-1 综合"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv1">
+                    CCTV-1 综合
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-2 财经"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv2">
+                    CCTV-2 财经
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-3 综艺"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv3">
+                    CCTV-3 综艺
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-4 中文国际"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv4">
+                    CCTV-4 中文国际
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-6 电影"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv6">
+                    CCTV-6 电影
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-7 国防军事"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv7">
+                    CCTV-7 国防军事
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-8 电视剧"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv8">
+                    CCTV-8 电视剧
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-9 纪录"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv9">
+                    CCTV-9 纪录
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-10 科教"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv10">
+                    CCTV-10 科教
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-11 戏曲"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv11">
+                    CCTV-11 戏曲
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-12 社会与法"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv12">
+                    CCTV-12 社会与法
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-13 新闻"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv13">
+                    CCTV-13 新闻
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-14 少儿"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv14">
+                    CCTV-14 少儿
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-15 音乐"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv15">
+                    CCTV-15 音乐
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV-17 农业农村"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctv17">
+                    CCTV-17 农业农村
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV 风云剧场频道"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctvfyjc">
+                    CCTV 风云剧场
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV 第一剧场频道"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctvdyjc">
+                    CCTV 第一剧场
+                </div>
+
+
+                <div class="channel"
+                     data-name="CCTV 怀旧剧场频道"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cctvhjjc">
+                    CCTV 怀旧剧场
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             衛視
+             ================================================= -->
+
+        <section
+            class="channel-section"
+            id="satelliteSection"
+            style="display:none;">
+
+            <div class="section-header">
+
+                <div class="section-title">
+                    衛視 YSP
+                </div>
+
+            </div>
+
+
+            <div
+                class="channel-grid"
+                id="satelliteList">
+
+
+                <div class="channel"
+                     data-name="江苏卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=jsws">
+                    江苏卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="浙江卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=zjws">
+                    浙江卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="湖南卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=hnws">
+                    湖南卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="北京卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=bjws">
+                    北京卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="东方卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=dfws">
+                    东方卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="山东卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=sdws">
+                    山东卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="山西卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=shanxiws2">
+                    山西卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="广东卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=gdws">
+                    广东卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="广西卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=gxws">
+                    广西卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="云南卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=ynws">
+                    云南卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="天津卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=tjws">
+                    天津卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="四川卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=scws">
+                    四川卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="宁夏卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=nxws">
+                    宁夏卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="吉林卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=jlws">
+                    吉林卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="安徽卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=ahws">
+                    安徽卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="江西卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=jxws">
+                    江西卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="西藏卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=xzws">
+                    西藏卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="辽宁卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=lnws">
+                    辽宁卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="河北卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=hbws2">
+                    河北卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="河南卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=henanws">
+                    河南卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="青海卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=qhws">
+                    青海卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="贵州卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=gzhws">
+                    贵州卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="重庆卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=cqws">
+                    重庆卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="陕西卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=shanxiws">
+                    陕西卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="海南卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=hnws2">
+                    海南卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="深圳卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=szws">
+                    深圳卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="湖北卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=hbws">
+                    湖北卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="新疆卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=xjws">
+                    新疆卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="福建东南卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=fjdnhz">
+                    福建东南卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="内蒙古卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=nmgws">
+                    内蒙古卫视
+                </div>
+
+
+                <div class="channel"
+                     data-name="黑龙江卫视"
+                     data-url="http://pretty-inna-qq01xp-4e742026.koyeb.app/ysp.php?id=hljws">
+                    黑龙江卫视
+                </div>
+
+            </div>
+
+        </section>
+
+    </div>
+
+</div>
+
+
+<script>
+
+/* =========================================================
+   HLS 播放器
+   ========================================================= */
+
+const video =
+    document.getElementById("video");
+
+const playerContainer =
+    document.getElementById("playerContainer");
+
+const loading =
+    document.getElementById("loading");
+
+const loadingText =
+    document.getElementById("loadingText");
+
+const message =
+    document.getElementById("message");
+
+const messageText =
+    document.getElementById("messageText");
+
+const currentChannel =
+    document.getElementById("currentChannel");
+
+const headerStatus =
+    document.getElementById("headerStatus");
+
+const fullscreenBtn =
+    document.getElementById("fullscreenBtn");
+
+const reloadBtn =
+    document.getElementById("reloadBtn");
+
+const channels =
+    document.querySelectorAll(".channel");
+
+
+/* =========================================================
+   央視 / 衛視分類
+   ========================================================= */
+
+const cctvBtn =
+    document.getElementById("cctvBtn");
+
+const satelliteBtn =
+    document.getElementById("satelliteBtn");
+
+const cctvSection =
+    document.getElementById("cctvSection");
+
+const satelliteSection =
+    document.getElementById("satelliteSection");
+
+
+let hls = null;
+
+let currentElement = null;
+
+let currentUrl = "";
+
+let retryTimer = null;
+
+
+/* =========================================================
+   Loading
+   ========================================================= */
+
+function showLoading(
+    text = "正在連接直播..."
+) {
+
+    loadingText.textContent =
+        text;
+
+    loading.classList.remove(
+        "hide"
+    );
+
+}
+
+
+function hideLoading() {
+
+    loading.classList.add(
+        "hide"
+    );
+
+}
+
+
+/* =========================================================
+   錯誤
+   ========================================================= */
+
+function showError(text) {
+
+    messageText.textContent =
+        text;
+
+    message.classList.add(
+        "show"
+    );
+
+}
+
+
+function hideError() {
+
+    message.classList.remove(
+        "show"
+    );
+
+}
+
+
+/* =========================================================
+   清除 HLS
+   ========================================================= */
+
+function destroyHLS() {
+
+    if (hls) {
+
+        try {
+
+            hls.destroy();
+
+        } catch (e) {
+
+            console.log(e);
+
+        }
+
+        hls = null;
+
+    }
+
+}
+
+
+/* =========================================================
+   取得播放地址
+   ========================================================= */
+
+async function resolveStream(
+    apiUrl
+) {
+
+    try {
+
+        const response =
+            await fetch(
+                apiUrl,
+                {
+                    method: "GET",
+                    cache: "no-cache"
+                }
+            );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                "HTTP " +
+                response.status
+            );
+
+        }
+
+
+        const contentType =
+            response.headers.get(
+                "content-type"
+            ) || "";
+
+
+        /* JSON */
+
+        if (
+            contentType
+                .toLowerCase()
+                .includes(
+                    "application/json"
+                )
+        ) {
+
+            const data =
+                await response.json();
+
+            return (
+                data.url ||
+                data.playUrl ||
+                data.playurl ||
+                data.src ||
+                data.stream ||
+                data.m3u8 ||
+                null
+            );
+
+        }
+
+
+        /* 純文字 */
+
+        const text =
+            (
+                await response.text()
+            ).trim();
+
+
+        if (
+            text.startsWith(
+                "http://"
+            ) ||
+            text.startsWith(
+                "https://"
+            )
+        ) {
+
+            return text;
+
+        }
+
+
+        /* JSON Content-Type 錯誤 */
+
+        try {
+
+            const data =
+                JSON.parse(text);
+
+            return (
+                data.url ||
+                data.playUrl ||
+                data.playurl ||
+                data.src ||
+                data.stream ||
+                data.m3u8 ||
+                null
+            );
+
+        } catch (e) {
+
+            return null;
+
+        }
+
+    } catch (error) {
+
+        console.warn(
+            "無法解析 API，嘗試直接使用 API：",
+            error
+        );
+
+        return null;
+
+    }
+
+}
+
+
+/* =========================================================
+   播放 HLS
+   ========================================================= */
+
+async function playStream(
+    streamUrl
+) {
+
+    destroyHLS();
+
+
+    video.pause();
+
+    video.removeAttribute(
+        "src"
+    );
+
+    video.load();
+
+
+    /* Safari / iOS 原生 HLS */
+
+    if (
+        video.canPlayType(
+            "application/vnd.apple.mpegurl"
+        )
+    ) {
+
+        video.src =
+            streamUrl;
+
+        video.load();
+
+
+        try {
+
+            await video.play();
+
+        } catch (error) {
+
+            video.muted = true;
+
+            try {
+
+                await video.play();
+
+            } catch (e) {
+
+                console.log(
+                    "Autoplay blocked:",
+                    e
+                );
+
+            }
+
+        }
+
+        return;
+
+    }
+
+
+    /* Chrome / Edge / Firefox */
+
+    if (
+        window.Hls &&
+        Hls.isSupported()
+    ) {
+
+        hls =
+            new Hls({
+
+                enableWorker: true,
+
+                lowLatencyMode: true,
+
+                backBufferLength: 30,
+
+                maxBufferLength: 20,
+
+                liveSyncDurationCount: 3,
+
+                liveMaxLatencyDurationCount: 6,
+
+                manifestLoadingTimeOut:
+                    15000,
+
+                manifestLoadingMaxRetry:
+                    3,
+
+                levelLoadingMaxRetry:
+                    3,
+
+                fragLoadingMaxRetry:
+                    3
+
+            });
+
+
+        hls.loadSource(
+            streamUrl
+        );
+
+        hls.attachMedia(
+            video
+        );
+
+
+        hls.on(
+            Hls.Events.MANIFEST_PARSED,
+            async function () {
+
+                hideLoading();
+
+                hideError();
+
+
+                try {
+
+                    await video.play();
+
+                } catch (error) {
+
+                    video.muted = true;
+
+
+                    try {
+
+                        await video.play();
+
+                    } catch (e) {
+
+                        showError(
+                            "瀏覽器阻止了自動播放，請點擊播放器播放。"
+                        );
+
+                    }
+
+                }
+
+            }
+        );
+
+
+        hls.on(
+            Hls.Events.ERROR,
+            function (
+                event,
+                data
+            ) {
+
+                console.warn(
+                    "HLS error:",
+                    data
+                );
+
+
+                if (
+                    data.fatal
+                ) {
+
+                    switch (
+                        data.type
+                    ) {
+
+                        case Hls.ErrorTypes
+                            .NETWORK_ERROR:
+
+                            showError(
+                                "網路連接中斷，正在重新連接..."
+                            );
+
+                            hls.startLoad();
+
+                            break;
+
+
+                        case Hls.ErrorTypes
+                            .MEDIA_ERROR:
+
+                            hls.recoverMediaError();
+
+                            break;
+
+
+                        default:
+
+                            destroyHLS();
+
+                            scheduleRetry();
+
+                            break;
+
+                    }
+
+                }
+
+            }
+        );
+
+
+        return;
+
+    }
+
+
+    showError(
+        "目前瀏覽器不支援 HLS 播放。請使用最新版 Chrome、Edge、Safari 或 Firefox。"
+    );
+
+}
+
+
+/* =========================================================
+   排程重新播放
+   ========================================================= */
+
+function scheduleRetry() {
+
+    clearTimeout(
+        retryTimer
+    );
+
+
+    retryTimer =
+        setTimeout(
+            () => {
+
+                if (
+                    currentElement
+                ) {
+
+                    playChannel(
+                        currentElement,
+                        true
+                    );
+
+                }
+
+            },
+            4000
+        );
+
+}
+
+
+/* =========================================================
+   播放頻道
+   ========================================================= */
+
+async function playChannel(
+    element,
+    retry = false
+) {
+
+    if (!element) {
+        return;
+    }
+
+
+    const name =
+        element.dataset.name;
+
+    const apiUrl =
+        element.dataset.url;
+
+
+    currentElement =
+        element;
+
+    currentUrl =
+        apiUrl;
+
+
+    /* 高亮 */
+
+    channels.forEach(
+        channel => {
+
+            channel.classList.remove(
+                "active"
+            );
+
+        }
+    );
+
+
+    element.classList.add(
+        "active"
+    );
+
+
+    /* 儲存頻道 */
+
+    try {
+
+        localStorage.setItem(
+            "lastChannel",
+            apiUrl
+        );
+
+        localStorage.setItem(
+            "lastChannelName",
+            name
+        );
+
+    } catch (e) {}
+
+
+    /* UI */
+
+    currentChannel.textContent =
+        name;
+
+    headerStatus.textContent =
+        "正在播放：" +
+        name;
+
+
+    hideError();
+
+
+    showLoading(
+        retry
+            ? "正在重新連接 " +
+              name +
+              "..."
+            : "正在連接 " +
+              name +
+              "..."
+    );
+
+
+    /* 解析播放地址 */
+
+    let streamUrl =
+        await resolveStream(
+            apiUrl
+        );
+
+
+    /*
+     * API 無法解析時，
+     * 直接使用 API 地址。
+     */
+
+    if (!streamUrl) {
+
+        streamUrl =
+            apiUrl;
+
+    }
+
+
+    console.log(
+        "播放地址：",
+        streamUrl
+    );
+
+
+    try {
+
+        await playStream(
+            streamUrl
+        );
+
+    } catch (error) {
+
+        console.error(
+            error
+        );
+
+
+        showError(
+            "無法開始播放，4 秒後自動重試。"
+        );
+
+
+        scheduleRetry();
+
+    }
+
+}
+
+
+/* =========================================================
+   點擊頻道
+   ========================================================= */
+
+channels.forEach(
+    channel => {
+
+        channel.addEventListener(
+            "click",
+            async function () {
+
+                await playChannel(
+                    this
+                );
+
+            }
+        );
+
+    }
+);
+
+
+/* =========================================================
+   央視 / 衛視切換
+   ========================================================= */
+
+function switchCategory(
+    category
+) {
+
+    if (
+        category === "satellite"
+    ) {
+
+        /* 顯示衛視 */
+
+        cctvSection.style.display =
+            "none";
+
+        satelliteSection.style.display =
+            "";
+
+
+        /* 按鈕狀態 */
+
+        cctvBtn.classList.remove(
+            "active"
+        );
+
+        satelliteBtn.classList.add(
+            "active"
+        );
+
+    } else {
+
+        /* 顯示央視 */
+
+        cctvSection.style.display =
+            "";
+
+        satelliteSection.style.display =
+            "none";
+
+
+        /* 按鈕狀態 */
+
+        cctvBtn.classList.add(
+            "active"
+        );
+
+        satelliteBtn.classList.remove(
+            "active"
+        );
+
+    }
+
+
+    /* 儲存分類 */
+
+    try {
+
+        localStorage.setItem(
+            "lastCategory",
+            category
+        );
+
+    } catch (e) {}
+
+}
+
+
+/* =========================================================
+   央視按鈕
+   ========================================================= */
+
+cctvBtn.addEventListener(
+    "click",
+    function () {
+
+        switchCategory(
+            "cctv"
+        );
+
+    }
+);
+
+
+/* =========================================================
+   衛視按鈕
+   ========================================================= */
+
+satelliteBtn.addEventListener(
+    "click",
+    function () {
+
+        switchCategory(
+            "satellite"
+        );
+
+    }
+);
+
+
+/* =========================================================
+   影片事件
+   ========================================================= */
+
+video.addEventListener(
+    "loadstart",
+    () => {
+
+        showLoading(
+            "正在載入直播..."
+        );
+
+    }
+);
+
+
+video.addEventListener(
+    "waiting",
+    () => {
+
+        showLoading(
+            "直播緩衝中..."
+        );
+
+    }
+);
+
+
+video.addEventListener(
+    "playing",
+    () => {
+
+        hideLoading();
+
+        hideError();
+
+
+        headerStatus.textContent =
+            "LIVE · " +
+            (
+                currentElement
+                    ? currentElement.dataset.name
+                    : ""
+            );
+
+    }
+);
+
+
+video.addEventListener(
+    "canplay",
+    () => {
+
+        hideLoading();
+
+    }
+);
+
+
+video.addEventListener(
+    "error",
+    () => {
+
+        showError(
+            "影片載入失敗，正在重新連接..."
+        );
+
+        scheduleRetry();
+
+    }
+);
+
+
+/* =========================================================
+   重播
+   ========================================================= */
+
+reloadBtn.addEventListener(
+    "click",
+    function () {
+
+        if (
+            currentElement
+        ) {
+
+            playChannel(
+                currentElement
+            );
+
+        }
+
+    }
+);
+
+
+/* =========================================================
+   全螢幕
+   ========================================================= */
+
+async function toggleFullscreen() {
+
+    try {
+
+        if (
+            document.fullscreenElement
+        ) {
+
+            await document.exitFullscreen();
+
+            return;
+
+        }
+
+
+        if (
+            playerContainer.requestFullscreen
+        ) {
+
+            await playerContainer.requestFullscreen();
+
+            return;
+
+        }
+
+
+        if (
+            video.webkitEnterFullscreen
+        ) {
+
+            video.webkitEnterFullscreen();
+
+            return;
+
+        }
+
+
+        alert(
+            "此瀏覽器不支援網頁全螢幕。"
+        );
+
+    } catch (error) {
+
+        console.warn(
+            "Fullscreen failed:",
+            error
+        );
+
+
+        try {
+
+            if (
+                video.webkitEnterFullscreen
+            ) {
+
+                video.webkitEnterFullscreen();
+
+            }
+
+        } catch (e) {}
+
+    }
+
+}
+
+
+fullscreenBtn.addEventListener(
+    "click",
+    toggleFullscreen
+);
+
+
+/* =========================================================
+   鍵盤快捷鍵
+   ========================================================= */
+
+document.addEventListener(
+    "keydown",
+    function (event) {
+
+        /* F = 全螢幕 */
+
+        if (
+            event.key.toLowerCase()
+            === "f"
+        ) {
+
+            if (
+                document.activeElement.tagName
+                !== "INPUT"
+            ) {
+
+                event.preventDefault();
+
+                toggleFullscreen();
+
+            }
+
+        }
+
+
+        /* Space = 播放 / 暫停 */
+
+        if (
+            event.code === "Space"
+        ) {
+
+            if (
+                document.activeElement.tagName
+                !== "INPUT"
+            ) {
+
+                event.preventDefault();
+
+
+                if (
+                    video.paused
+                ) {
+
+                    video.play();
+
+                } else {
+
+                    video.pause();
+
+                }
+
+            }
+
+        }
+
+    }
+);
+
+
+/* =========================================================
+   自動播放
+   ========================================================= */
+
+async function startDefaultChannel() {
+
+    let savedUrl = null;
+
+
+    try {
+
+        savedUrl =
+            localStorage.getItem(
+                "lastChannel"
+            );
+
+    } catch (e) {}
+
+
+    let target = null;
+
+
+    /* 優先恢復上次頻道 */
+
+    if (
+        savedUrl
+    ) {
+
+        channels.forEach(
+            channel => {
+
+                if (
+                    channel.dataset.url
+                    === savedUrl
+                ) {
+
+                    target =
+                        channel;
+
+                }
+
+            }
+        );
+
+    }
+
+
+    /* 沒有歷史記錄，使用第一個頻道 */
+
+    if (!target) {
+
+        target =
+            document.querySelector(
+                "#cctvList .channel"
+            );
+
+    }
+
+
+    if (!target) {
+        return;
+    }
+
+
+    /* 恢復上次分類 */
+
+    let savedCategory =
+        "cctv";
+
+
+    try {
+
+        savedCategory =
+            localStorage.getItem(
+                "lastCategory"
+            ) || "cctv";
+
+    } catch (e) {}
+
+
+    switchCategory(
+        savedCategory
+    );
+
+
+    /*
+     * 如果上次播放的是衛視，
+     * 自動切換到衛視。
+     */
+
+    if (
+        target.closest(
+            "#satelliteList"
+        )
+    ) {
+
+        switchCategory(
+            "satellite"
+        );
+
+    } else {
+
+        switchCategory(
+            "cctv"
+        );
+
+    }
+
+
+    /* 自動播放靜音 */
+
+    video.muted = true;
+
+
+    await playChannel(
+        target
+    );
+
+
+    /*
+     * 嘗試自動全螢幕
+     */
+
+    setTimeout(
+        async () => {
+
+            try {
+
+                if (
+                    !document.fullscreenElement &&
+                    playerContainer.requestFullscreen
+                ) {
+
+                    await playerContainer.requestFullscreen();
+
+                }
+
+            } catch (e) {
+
+                console.log(
+                    "瀏覽器禁止自動全螢幕，請點擊「全螢幕」。"
+                );
+
+            }
+
+        },
+        800
+    );
+
+}
+
+
+/* =========================================================
+   啟動
+   ========================================================= */
+
+window.addEventListener(
+    "load",
+    function () {
+
+        startDefaultChannel();
+
+    }
+);
+
+
+/* =========================================================
+   使用者第一次點擊
+   ========================================================= */
+
+let userInteracted =
+    false;
+
+
+document.addEventListener(
+    "click",
+    async function () {
+
+        if (
+            userInteracted
+        ) {
+
+            return;
+
+        }
+
+
+        userInteracted =
+            true;
+
+
+        if (
+            !video.paused
+        ) {
+
+            video.muted =
+                false;
+
+        }
+
+    },
+    {
+        once: true
+    }
+);
+
+</script>
+
 </body>
 </html>
