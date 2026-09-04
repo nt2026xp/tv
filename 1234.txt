@@ -31,12 +31,12 @@ CCTV-9纪录,webview://https://www.yangshipin.cn/tv/home?pid=600004078
 CCTV-10科教,webview://https://www.yangshipin.cn/tv/home?pid=600001805
 CCTV-11戏曲,webview://https://www.yangshipin.cn/tv/home?pid=600001806
 CCTV-12社会与法,webview://https://www.yangshipin.cn/tv/home?pid=600001807
-CCTV-13 新闻,webview://https://www.yangshipin.cn/tv/home?pid=600001811
+CCTV-13新闻,webview://https://www.yangshipin.cn/tv/home?pid=600001811
 CCTV-14少儿,webview://https://www.yangshipin.cn/tv/home?pid=600001809
 CCTV-15音乐,webview://https://www.yangshipin.cn/tv/home?pid=600001815
 CCTV-17农业农村,webview://https://www.yangshipin.cn/tv/home?pid=600001810
-CCTV4K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264	
-CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816	
+CCTV-4K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264	
+CCTV-8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816	
 CCTV-风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099658
 CCTV-第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 CCTV-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
@@ -75,3 +75,11 @@ CCTV-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 新疆卫视,webview://https://www.yangshipin.cn/tv/home?pid=600152138
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
+
+測試,#genre#
+
+CCTV-1综合,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv1
+CCTV-2财经,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv2
+CCTV-9纪录,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv9
+CCTV-10科教,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv10
+CCTV-13新闻,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv13
