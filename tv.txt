@@ -99,6 +99,18 @@ TVBS新聞,https://4gtv.tvbjack.ggff.net/?id=TVBS%E6%96%B0%E8%81%9E
 寰宇台灣,https://4gtv.tvbjack.ggff.net/?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
 鏡新聞,https://4gtv.tvbjack.ggff.net/?id=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
 
+Love Nature,https://4gtv.tvbjack.ggff.net/?id=Love%20Nature
+民視旅遊,https://4gtv.tvbjack.ggff.net/?id=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0
+亞洲旅遊,https://4gtv.tvbjack.ggff.net/?id=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
+愛爾達生活旅遊,https://4gtv.tvbjack.ggff.net/?id=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
+靖天日本,https://4gtv.tvbjack.ggff.net/?id=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
+靖天綜合,https://4gtv.tvbjack.ggff.net/?id=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
+靖天育樂,https://4gtv.tvbjack.ggff.net/?id=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0
+靖天國際,https://4gtv.tvbjack.ggff.net/?id=KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0
+靖天歡樂,https://4gtv.tvbjack.ggff.net/?id=Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0
+靖天資訊,https://4gtv.tvbjack.ggff.net/?id=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0
+
+
 台灣油管,#genre#
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
