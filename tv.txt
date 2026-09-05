@@ -23,11 +23,6 @@
 中視,http://211.23.95.147:18881/live/dtv1_h265.ts
 台視,http://211.23.95.147:18881/live/dtv14_h265.ts
 
-西遊記,https://www.youtube.com/watch?v=AfaGwTbKH0A
-水滸傳,https://www.youtube.com/watch?v=iB3UrC395bY
-
-雍正王朝,https://www.youtube.com/watch?v=RGCaUT6-hqU
-康熙王朝,https://www.youtube.com/watch?v=QF6VpFjkFjw
 
 一笑江湖,https://www.youtube.com/watch?v=g8Aagss4bnk
 張韶涵《星辰大海》,https://www.youtube.com/watch?v=iyHJOmFCSAg
@@ -155,30 +150,15 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
 富士山忍野八海,https://www.youtube.com/watch?v=PxzwnWh1dKk
 
-台灣地面波,#genre#
 
-華視,http://211.23.95.147:18881/live/dtv18_h265.ts
-中視,http://211.23.95.147:18881/live/dtv1_h265.ts
-台視,http://211.23.95.147:18881/live/dtv14_h265.ts
+CCTV測試,#genre#
 
-華視新闻资讯台,http://211.23.95.147:18881/live/dtv20_h265.ts
-中視新闻台,http://211.23.95.147:18881/live/dtv2_h265.ts
-台視新闻台,http://211.23.95.147:18881/live/dtv15_h265.ts
-
-中视经典台,http://211.23.95.147:18881/live/dtv3_h265.ts
-中视菁采台,http://211.23.95.147:18881/live/dtv4_h265.ts
-公视,http://211.23.95.147:18881/live/dtv5_h265.ts
-公视台语台,http://211.23.95.147:18881/live/dtv6_h265.ts
-Taiwan Plus,http://211.23.95.147:18881/live/dtv21_h265.ts
-民视,http://211.23.95.147:18881/live/dtv7_h265.ts
-民视第一台,http://211.23.95.147:18881/live/dtv8_h265.ts
-民视新闻台,http://211.23.95.147:18881/live/dtv9_h265.ts
-民视台湾台,http://211.23.95.147:18881/live/dtv10_h265.ts
-小公视,http://211.23.95.147:18881/live/dtv11_h265.ts
-客家电视台,http://211.23.95.147:18881/live/dtv12_h265.ts
-原住民电视台,http://211.23.95.147:18881/live/dtv13_h265.ts
-
-台视财经台,http://211.23.95.147:18881/live/dtv16_h265.ts
-台视综合台,http://211.23.95.147:18881/live/dtv17_h265.ts
-华视教育体育文化台,http://211.23.95.147:18881/live/dtv19_h265.ts
-
+CCTV-1综合,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv1
+CCTV-2财经,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv2
+CCTV-4中文国际,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv4
+CCTV-7国防军事,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv7
+CCTV-9纪录,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv9
+CCTV-10科教,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv10
+CCTV-13新闻,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv13
+CCTV-17农业农村,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv17
+CCTV-4K超高清,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv4k
