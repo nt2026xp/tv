@@ -86,6 +86,19 @@ TVBS精采台,udp://@230.1.2.35:11111
 龍華動畫,udp://@224.1.4.109:11111
 龍華動畫,udp://@224.1.4.180:11111
 
+新聞財經,#genre#
+
+TVBS新聞,https://4gtv.tvbjack.ggff.net/?id=TVBS%E6%96%B0%E8%81%9E
+東森新聞,https://4gtv.tvbjack.ggff.net/?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
+東森財經,https://4gtv.tvbjack.ggff.net/?id=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
+民視新聞,https://4gtv.tvbjack.ggff.net/?id=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
+三立財經,https://4gtv.tvbjack.ggff.net/?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
+華視新聞,https://4gtv.tvbjack.ggff.net/?id=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
+中視新聞,https://4gtv.tvbjack.ggff.net/?id=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
+寰宇新聞,https://4gtv.tvbjack.ggff.net/?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
+寰宇台灣,https://4gtv.tvbjack.ggff.net/?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
+鏡新聞,https://4gtv.tvbjack.ggff.net/?id=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
+
 台灣油管,#genre#
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
