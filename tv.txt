@@ -81,31 +81,6 @@ TVBS精采台,udp://@230.1.2.35:11111
 龍華動畫,udp://@224.1.4.109:11111
 龍華動畫,udp://@224.1.4.180:11111
 
-新聞財經,#genre#
-
-TVBS新聞,https://4gtv.tvbjack.ggff.net/?id=TVBS%E6%96%B0%E8%81%9E
-東森新聞,https://4gtv.tvbjack.ggff.net/?id=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
-東森財經,https://4gtv.tvbjack.ggff.net/?id=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
-民視新聞,https://4gtv.tvbjack.ggff.net/?id=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
-三立財經,https://4gtv.tvbjack.ggff.net/?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
-華視新聞,https://4gtv.tvbjack.ggff.net/?id=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
-中視新聞,https://4gtv.tvbjack.ggff.net/?id=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
-寰宇新聞,https://4gtv.tvbjack.ggff.net/?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
-寰宇台灣,https://4gtv.tvbjack.ggff.net/?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
-鏡新聞,https://4gtv.tvbjack.ggff.net/?id=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
-
-Love Nature,https://4gtv.tvbjack.ggff.net/?id=Love%20Nature
-民視旅遊,https://4gtv.tvbjack.ggff.net/?id=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0
-亞洲旅遊,https://4gtv.tvbjack.ggff.net/?id=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
-愛爾達生活旅遊,https://4gtv.tvbjack.ggff.net/?id=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
-靖天日本,https://4gtv.tvbjack.ggff.net/?id=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
-靖天綜合,https://4gtv.tvbjack.ggff.net/?id=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
-靖天育樂,https://4gtv.tvbjack.ggff.net/?id=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0
-靖天國際,https://4gtv.tvbjack.ggff.net/?id=KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0
-靖天歡樂,https://4gtv.tvbjack.ggff.net/?id=Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0
-靖天資訊,https://4gtv.tvbjack.ggff.net/?id=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0
-
-
 台灣油管,#genre#
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -151,14 +126,3 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 富士山忍野八海,https://www.youtube.com/watch?v=PxzwnWh1dKk
 
 
-CCTV測試,#genre#
-
-CCTV-1综合,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv1
-CCTV-2财经,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv2
-CCTV-4中文国际,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv4
-CCTV-7国防军事,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv7
-CCTV-9纪录,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv9
-CCTV-10科教,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv10
-CCTV-13新闻,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv13
-CCTV-17农业农村,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv17
-CCTV-4K超高清,https://unknown-hildagarde-bcfaeffb.koyeb.app/live.m3u8?channel=cctv4k
