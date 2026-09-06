@@ -1,18 +1,7 @@
 cctv docker zhoujie218/cctv-hls
 
-cctv1,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv1
-
-cctv2,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv2
-
-cctv9,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv9
-
-cctv10,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv10
-
-cctv13,https://unknown-hildagarde-kk01xp-bcfaeffb.koyeb.app/live.m3u8?channel=cctv13
 
 直播源 https://github.com/FGBLH/GHK
-
-直播源 
 
 直播源  https://github.com/caliph21/caliph21.github.io
 
