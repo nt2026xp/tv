@@ -24,8 +24,8 @@ CCTV-17农业农村,video://https://tv.cctv.com/live/cctv17/index.shtml
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 
-CCTV4K超高清,video://https://www.yangshipin.cn/tv/home?pid=600002264	
-CCTV8K超高清,video://https://www.yangshipin.cn/tv/home?pid=600156816	
+CCTV-4K超高清,video://https://www.yangshipin.cn/tv/home?pid=600002264	
+CCTV-8K超高清,video://https://www.yangshipin.cn/tv/home?pid=600156816	
 CCTV-1综合,video://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV-2财经,video://https://www.yangshipin.cn/tv/home?pid=600001800
 CCTV-3综艺,video://https://www.yangshipin.cn/tv/home?pid=600001801
