@@ -3,22 +3,11 @@ cctv docker zhoujie218/cctv-hls
 
 直播源 https://github.com/FGBLH/GHK
 
-直播源  https://github.com/caliph21/caliph21.github.io
-
-直播源  https://github.com/caliph21/caliph21.github.io/tree/main/zubo/api
-
 台視,https://m.youtube.com/watch?v=uDqQo8a7Xmk
-
-ofiii https://ha.msbot.dpdns.org/ofiii.php
-
-4gtv https://ha.msbot.dpdns.org/4gtv_api.php
-
 
 "ads": [
 
         "static-mozai.4gtv.tv"
-
-直播源 https://github.com/FGBLH/GHK
 
 EPG https://epg.zsdc.eu.org/t.xml
 
@@ -37,7 +26,7 @@ okHttp/Mod-1.5.0.0
 ============================================
 
 
-海豚py研究所 https://t.me/hshsjk9
+(垃圾群) 海豚py研究所 https://t.me/hshsjk9
 
 (垃圾群) 极致播放器交流群 https://t.me/jizhi00
 
@@ -47,17 +36,17 @@ okHttp/Mod-1.5.0.0
 
 (垃圾群) 智能電視盒子 https://t.me/meitu007
 
-(垃圾群)tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
+(垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
-(垃圾群)catvod https://t.me/www_catvod_com
+(垃圾群) catvod https://t.me/www_catvod_com
 
 (垃圾群) 阿黃tv https://t.me/ahuangtv
 
-(垃圾群)pixman群 https://t.me/pixman_io
-
-(垃圾群)juli直播源 https://t.me/tvzby
+(垃圾群) pixman群 https://t.me/pixman_io
 
 (垃圾群)IPTV直播源总部 https://t.me/iptvofficalgroup
+
+(垃圾群) juli直播源 https://t.me/tvzby
 
 ＋＋＋＋＋＋＋＋＋
 
@@ -96,11 +85,6 @@ iotv直播源總部 https://t.me/iptvorganization
 影視TV https://t.me/fongmi_release
 
 ================
-
-
-TGbot t.me/tgbot
-
-影視資源交流 @mejotv
 
 聽音樂 @vkmusbot
 
