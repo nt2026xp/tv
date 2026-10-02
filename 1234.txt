@@ -113,21 +113,15 @@ CCTV15音乐,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/673168223
 CCTV17农业农村,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/673168256
 CCTV4欧洲,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/608807419
 CCTV4美洲,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/608807416
-CGTN外语纪录,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/609006487
-CGTN阿拉伯语,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/609154345
-CGTN西班牙语,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/609006450
-CGTN法语,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/609006476
-CGTN俄语,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/609006446
-老故事,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/884121956
-发现之旅,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/624878970
-中学生,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/708869532
-CGTN,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/609017205
+
 
 1905卫视,#genre#
-东方卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/651632648
+
+
 江苏卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/623899368
 广东卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/608831231
 北京卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/630287636
+东方卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/651632648
 辽宁卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/630291707
 河北卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/962042070
 江西卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/783847495
@@ -146,10 +140,10 @@ CGTN,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/609017205
 重庆卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/738910914
 三沙卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/961023778
 黑龙江卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/738906901
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 
 央视频,#genre#
+
 CCTV1综合,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctv1.m3u8
 CCTV2财经,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctv2.m3u8
 CCTV3综艺,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctv3.m3u8
@@ -171,12 +165,6 @@ CCTV16 4K,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctv164k.m3
 CCTV17农业农村,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctv17.m3u8
 CCTV4K超高清,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctv4k.m3u8
 CCTV8K超高清,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctv8k.m3u8
-CGTN,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cgtn.m3u8
-CGTN法语,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cgtnfy.m3u8
-CGTN俄语,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cgtney.m3u8
-CGTN阿拉伯语,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cgtnalby.m3u8
-CGTN西班牙语,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cgtnxby.m3u8
-CGTN纪录,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cgtnwyjl.m3u8
 CCTV风云剧场,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctvfyjc.m3u8
 CCTV第一剧场,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctvdyjc.m3u8
 CCTV怀旧剧场,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctvhjjc.m3u8
@@ -184,11 +172,11 @@ CCTV怀旧剧场,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-cctv
 
 卫视频,#genre#
 
-北京卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-bjws.m3u8
 江苏卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-jsws.m3u8
-东方卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-dfws.m3u8
 浙江卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-zjws.m3u8
 湖南卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-hnws.m3u8
+北京卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-bjws.m3u8
+东方卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-dfws.m3u8
 湖北卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-hbws.m3u8
 广东卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-gdws.m3u8
 广西卫视,https://marxist-morgen-kk01xp-2f2bc9a9.koyeb.app/relay/ysp-gxws.m3u8
