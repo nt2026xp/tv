@@ -93,6 +93,27 @@ CCTV-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=60000
 
+php央視,#genre#
+
+CCTV1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+CCTV2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+CCTV3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+CCTV4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
+CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
+CCTV5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+CCTV6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+CCTV7,https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+CCTV8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
+CCTV9,https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
+CCTV10,https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
+CCTV11,https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
+CCTV12,https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+CCTV13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+CCTV14,https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
+CCTV15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
+CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
+CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+
 yspcf央視,#genre#
 
 CCTV-1,https://broad-art-37d2.nt01xp.workers.dev/cctv1/playlist.m3u8
@@ -113,3 +134,5 @@ CCTV-14,https://broad-art-37d2.nt01xp.workers.dev/cctv14/playlist.m3u8
 CCTV-15,https://broad-art-37d2.nt01xp.workers.dev/cctv15/playlist.m3u8
 CCTV-16,https://broad-art-37d2.nt01xp.workers.dev/cctv16/playlist.m3u8
 CCTV-17,https://broad-art-37d2.nt01xp.workers.dev/cctv17/playlist.m3u8
+
+
