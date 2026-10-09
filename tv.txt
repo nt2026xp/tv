@@ -137,21 +137,21 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 
 yspcf央視,#genre#
 
-CCTV-1 綜合,https://polished-morning-caae.nt01xp.workers.dev/cctv1/playlist.m3u8
-CCTV-2 財經,https://polished-morning-caae.nt01xp.workers.dev/cctv2/playlist.m3u8
-CCTV-3 綜藝,https://polished-morning-caae.nt01xp.workers.dev/cctv3/playlist.m3u8
-CCTV-4 中文国际,https://polished-morning-caae.nt01xp.workers.dev/cctv4/playlist.m3u8
-CCTV-5 体育,https://polished-morning-caae.nt01xp.workers.dev/cctv5/playlist.m3u8
-CCTV-5+ 体育赛事,https://polished-morning-caae.nt01xp.workers.dev/cctv5p/playlist.m3u8
-CCTV-6 电影,https://polished-morning-caae.nt01xp.workers.dev/cctv6/playlist.m3u8
-CCTV-7 国防军事,https://polished-morning-caae.nt01xp.workers.dev/cctv7/playlist.m3u8
-CCTV-8 电视剧,https://polished-morning-caae.nt01xp.workers.dev/cctv8/playlist.m3u8
-CCTV-9 纪录,https://polished-morning-caae.nt01xp.workers.dev/cctv9/playlist.m3u8
-CCTV-10 科教,https://polished-morning-caae.nt01xp.workers.dev/cctv10/playlist.m3u8
-CCTV-11 戏曲,https://polished-morning-caae.nt01xp.workers.dev/cctv11/playlist.m3u8
-CCTV-12 社会与法,https://polished-morning-caae.nt01xp.workers.dev/cctv12/playlist.m3u8
-CCTV-13 新闻,https://polished-morning-caae.nt01xp.workers.dev/cctv13/playlist.m3u8
-CCTV-14 少儿,https://polished-morning-caae.nt01xp.workers.dev/cctv14/playlist.m3u8
-CCTV-15 音乐,https://polished-morning-caae.nt01xp.workers.dev/cctv15/playlist.m3u8
-CCTV-16 奥林匹克,https://polished-morning-caae.nt01xp.workers.dev/cctv16/playlist.m3u8
-CCTV-17 农业农村,https://polished-morning-caae.nt01xp.workers.dev/cctv17/playlist.m3u8
+CCTV-1,https://broad-art-37d2.nt01xp.workers.dev/cctv1/playlist.m3u8
+CCTV-2,https://broad-art-37d2.nt01xp.workers.dev/cctv2/playlist.m3u8
+CCTV-3,https://broad-art-37d2.nt01xp.workers.dev/cctv3/playlist.m3u8
+CCTV-4,https://broad-art-37d2.nt01xp.workers.dev/cctv4/playlist.m3u8
+CCTV-5,https://broad-art-37d2.nt01xp.workers.dev/cctv5/playlist.m3u8
+CCTV-5+,https://broad-art-37d2.nt01xp.workers.dev/cctv5p/playlist.m3u8
+CCTV-6,https://broad-art-37d2.nt01xp.workers.dev/cctv6/playlist.m3u8
+CCTV-7,https://broad-art-37d2.nt01xp.workers.dev/cctv7/playlist.m3u8
+CCTV-8,https://broad-art-37d2.nt01xp.workers.dev/cctv8/playlist.m3u8
+CCTV-9,https://broad-art-37d2.nt01xp.workers.dev/cctv9/playlist.m3u8
+CCTV-10,https://broad-art-37d2.nt01xp.workers.dev/cctv10/playlist.m3u8
+CCTV-11,https://broad-art-37d2.nt01xp.workers.dev/cctv11/playlist.m3u8
+CCTV-12,https://broad-art-37d2.nt01xp.workers.dev/cctv12/playlist.m3u8
+CCTV-13,https://broad-art-37d2.nt01xp.workers.dev/cctv13/playlist.m3u8
+CCTV-14,https://broad-art-37d2.nt01xp.workers.dev/cctv14/playlist.m3u8
+CCTV-15,https://broad-art-37d2.nt01xp.workers.dev/cctv15/playlist.m3u8
+CCTV-16,https://broad-art-37d2.nt01xp.workers.dev/cctv16/playlist.m3u8
+CCTV-17,https://broad-art-37d2.nt01xp.workers.dev/cctv17/playlist.m3u8
