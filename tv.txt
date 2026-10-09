@@ -135,23 +135,3 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 富士山忍野八海,https://www.youtube.com/watch?v=PxzwnWh1dKk
 
-yspcf央視,#genre#
-
-CCTV-1,https://broad-art-37d2.nt01xp.workers.dev/cctv1/playlist.m3u8
-CCTV-2,https://broad-art-37d2.nt01xp.workers.dev/cctv2/playlist.m3u8
-CCTV-3,https://broad-art-37d2.nt01xp.workers.dev/cctv3/playlist.m3u8
-CCTV-4,https://broad-art-37d2.nt01xp.workers.dev/cctv4/playlist.m3u8
-CCTV-5,https://broad-art-37d2.nt01xp.workers.dev/cctv5/playlist.m3u8
-CCTV-5+,https://broad-art-37d2.nt01xp.workers.dev/cctv5p/playlist.m3u8
-CCTV-6,https://broad-art-37d2.nt01xp.workers.dev/cctv6/playlist.m3u8
-CCTV-7,https://broad-art-37d2.nt01xp.workers.dev/cctv7/playlist.m3u8
-CCTV-8,https://broad-art-37d2.nt01xp.workers.dev/cctv8/playlist.m3u8
-CCTV-9,https://broad-art-37d2.nt01xp.workers.dev/cctv9/playlist.m3u8
-CCTV-10,https://broad-art-37d2.nt01xp.workers.dev/cctv10/playlist.m3u8
-CCTV-11,https://broad-art-37d2.nt01xp.workers.dev/cctv11/playlist.m3u8
-CCTV-12,https://broad-art-37d2.nt01xp.workers.dev/cctv12/playlist.m3u8
-CCTV-13,https://broad-art-37d2.nt01xp.workers.dev/cctv13/playlist.m3u8
-CCTV-14,https://broad-art-37d2.nt01xp.workers.dev/cctv14/playlist.m3u8
-CCTV-15,https://broad-art-37d2.nt01xp.workers.dev/cctv15/playlist.m3u8
-CCTV-16,https://broad-art-37d2.nt01xp.workers.dev/cctv16/playlist.m3u8
-CCTV-17,https://broad-art-37d2.nt01xp.workers.dev/cctv17/playlist.m3u8
