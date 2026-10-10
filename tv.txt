@@ -12,7 +12,6 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 華視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 中視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-名偵探柯南30號殺人事件,https://player.yzzyvip-35.com/20260926/17653_ed54e9a0/index.m3u8
 
 
 蠟筆小新,#genre#
