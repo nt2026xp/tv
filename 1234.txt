@@ -94,3 +94,17 @@ CCTV-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 内蒙古卫视,webview://https://www.yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=60000
 
+4k,#genre#
+
+江苏卫视4K,http://192.187.124.34:81/live/jsws4k.m3u8
+浙江卫视4K,http://192.187.124.34:81/live/zjws4k.m3u8
+湖南卫视4K,http://192.187.124.34:81/live/hnws4k.m3u8
+四川卫视4K,http://192.187.124.34:81/live/scws4k.m3u8
+山东卫视4K,http://192.187.124.34:81/live/sdws4k.m3u8
+东方卫视4K,http://192.187.124.34:81/live/dfws4k.m3u8
+广东卫视4K,http://192.187.124.34:81/live/gdws4k.m3u8
+深圳卫视4K,http://192.187.124.34:81/live/szws4k.m3u8
+求索纪录,http://192.187.124.34:81/live/qsjl.m3u8
+求索动物,http://192.187.124.34:81/live/qsdw.m3u8
+求索海淘,http://192.187.124.34:81/live/qskx.m3u8
+求索生活,http://192.187.124.34:81/live/qssh.m3u8
