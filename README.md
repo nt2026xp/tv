@@ -1,7 +1,5 @@
 直播源   https://raw.githubusercontent.com/lubin776/tvbox-api-backup/refs/heads/main/tvbox/live/Guovin.m3u
 
-直播源 https://github.com/FGBLH/EHR663
-
 直播源 https://github.com/FGBLH/GHK
 
 EPG https://epg.zsdc.eu.org/t.xml
