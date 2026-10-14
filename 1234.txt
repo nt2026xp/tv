@@ -110,14 +110,14 @@ CCTV-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 求索生活,http://192.187.124.34:81/live/qssh.m3u8
 
 
-QQ央视频,#genre#
+QQ央视,#genre#
 
+CCTV4K超高清,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv4k.m3u8
+CCTV8K超高清,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv8k.m3u8
 CCTV1综合,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv1.m3u8
 CCTV2财经,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv2.m3u8
 CCTV3综艺,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv3.m3u8
 CCTV4中文国际,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv4.m3u8
-CCTV5体育,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv5.m3u8
-CCTV5+体育赛事,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv5p.m3u8
 CCTV6电影,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv6.m3u8
 CCTV7国防军事,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv7.m3u8
 CCTV8电视剧,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv8.m3u8
@@ -128,15 +128,13 @@ CCTV12社会与法,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/y
 CCTV13新闻,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv13.m3u8
 CCTV14少儿,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv14.m3u8
 CCTV15音乐,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv15.m3u8
-CCTV16奥林匹克,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv16.m3u8
-CCTV16 4K,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv164k.m3u8
 CCTV17农业农村,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv17.m3u8
-CCTV4K超高清,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv4k.m3u8
-CCTV8K超高清,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctv8k.m3u8
 
-CCTV风云剧场,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctvfyjc.m3u8
-CCTV第一剧场,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctvdyjc.m3u8
-CCTV怀旧剧场,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctvhjjc.m3u8
+风云剧场,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctvfyjc.m3u8
+第一剧场,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctvdyjc.m3u8
+怀旧剧场,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-cctvhjjc.m3u8
+
+QQ卫视,#genre#
 
 江苏卫视,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-jsws.m3u8
 浙江卫视,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-zjws.m3u8
@@ -170,13 +168,3 @@ CCTV怀旧剧场,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp
 内蒙古卫视,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-nmgws.m3u8
 黑龙江卫视,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-hljws.m3u8
 
-CCTV世界地理,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvsjdl.m3u8
-CCTV风云音乐,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvfyyl.m3u8
-CCTV兵器科技,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvbqkj.m3u8
-CCTV风云足球,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvfyzq.m3u8
-CCTV高尔夫·网球,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvgfew.m3u8
-CCTV女性时尚,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvnxss.m3u8
-CCTV央视文化精品,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvwhjp.m3u8
-CCTV央视台球,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvtq.m3u8
-CCTV电视指南,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvdszn.m3u8
-CCTV卫生健康,https://preliminary-marjory-qq01xp-c3fb809e.koyeb.app/relay/ysp-vip-cctvwsjk.m3u8
