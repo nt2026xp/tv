@@ -44,6 +44,8 @@ okHttp/Mod-1.5.0.0
 
 訂閱頻道
 
+蜂蜜影視  https://t.me/apk_Release
+
 簡單IPTV https://t.me/jdiptvpub
 
 tmxk 频道 https://t.me/tmxktg
