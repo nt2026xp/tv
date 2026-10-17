@@ -1,3 +1,5 @@
+py https://github.com/phu889/kjh998
+
 直播源 https://raw.githubusercontent.com/lubin776/tvbox-api-backup/refs/heads/main/tvbox/live/Guovin.m3u
 
 EPG https://epg.zsdc.eu.org/t.xml
