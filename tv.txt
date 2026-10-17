@@ -24,7 +24,7 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 我們這一家,https://www.youtube.com/watch?v=g4pN3pK1XvY
 新哆啦A夢,https://www.youtube.com/watch?v=xTYgMy0ZMuo
 蠟筆小新TV版,https://www.youtube.com/watch?v=TE5Msg_hAgY
-
+蠟筆小新劇場版,https://www.youtube.com/watch?v=jAX6TIKSPio
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=6TsaEYaKueE
 
