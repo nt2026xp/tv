@@ -112,8 +112,6 @@ CCTV1综合,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv1.m3u8
 CCTV2财经,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv2.m3u8
 CCTV3综艺,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv3.m3u8
 CCTV4中文国际,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv4.m3u8
-CCTV5体育,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv5.m3u8
-CCTV5+体育赛事,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv5p.m3u8
 CCTV6电影,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv6.m3u8
 CCTV7国防军事,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv7.m3u8
 CCTV8电视剧,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv8.m3u8
@@ -124,8 +122,6 @@ CCTV12社会与法,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cct
 CCTV13新闻,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv13.m3u8
 CCTV14少儿,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv14.m3u8
 CCTV15音乐,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv15.m3u8
-CCTV16奥林匹克,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv16.m3u8
-CCTV16 4K,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv164k.m3u8
 CCTV17农业农村,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv17.m3u8
 
 CCTV风云剧场,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctvfyjc.m3u8
