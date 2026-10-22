@@ -14,6 +14,24 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 
 
+無線新聞,https://cdn6.cc.cd/163189/wxxwt
+
+翡翠台,https://cdn6.cc.cd/163189/fct
+
+天映經典,https://cdn3.indevs.in/stream/live/ccm/
+
+Hoy78資訊,https://fast.hidns.vip/163189/hoy78
+
+9紀錄,http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+
+10科教,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+
+1綜合,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+
+2財經,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+
+13新聞,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+
 蠟筆小新,#genre#
 
 東森幼幼,http://211.23.95.147:18881/live/25_h265.ts
