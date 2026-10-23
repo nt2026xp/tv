@@ -22,16 +22,6 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 
 Hoy78資訊,https://fast.hidns.vip/163189/hoy78
 
-9紀錄,http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
-
-10科教,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
-
-1綜合,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
-
-2財經,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
-
-13新聞,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
-
 天光央視1,#genre#
 
 CCTV-1综合,webview://https://tv.cctv.com/live/cctv1/index.shtml
