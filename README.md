@@ -96,5 +96,4 @@ iptv直播源總部 https://t.me/iptvorganization
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
 
-刪除帳號 tg delete https://my.telegram.org/auth# tv
-目前顯示的是「2026github.txt」。
+刪除帳號 tg delete https://my.telegram.org/auth#
