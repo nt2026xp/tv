@@ -90,11 +90,6 @@ CCTV-怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 
 QQ央視,#genre#
 
-CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
-CHC影迷电影,http://107.150.60.122/live/chchd.m3u8
-CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
-重温经典,http://107.150.60.122/live/cwjd.m3u8
-
 CCTV4K超高清,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv4k.m3u8
 CCTV8K超高清,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv8k.m3u8
 CCTV1综合,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-cctv1.m3u8
