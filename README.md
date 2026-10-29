@@ -2,10 +2,6 @@
 
 py https://github.com/phu889/kjh998
 
-直播源 https://raw.githubusercontent.com/lubin776/tvbox-api-backup/refs/heads/main/tvbox/live/Guovin.m3u
-
-直播 https://github.com/lubin776/tvbox-api-backup/tree/main/tvbox/live
-
 EPG https://epg.zsdc.eu.org/t.xml
 
 =================
