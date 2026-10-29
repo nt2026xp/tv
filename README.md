@@ -1,3 +1,5 @@
+严禁分享！分享必封号，此号直接作废。 https://t.me/zhiboziyuan_bot
+
 py https://github.com/phu889/kjh998
 
 直播源 https://raw.githubusercontent.com/lubin776/tvbox-api-backup/refs/heads/main/tvbox/live/Guovin.m3u
