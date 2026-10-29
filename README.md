@@ -1,5 +1,5 @@
 akiralereal/iptv:latest
-1905
+1905   txt
 
 
 catvod  https://t.me/zhiboziyuan_bot
