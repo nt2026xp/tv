@@ -146,7 +146,7 @@ QQ衛視,#genre#
 内蒙古卫视,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-nmgws.m3u8
 黑龙江卫视,https://chief-whitney-qq01xp-c448d20c.koyeb.app/relay/ysp-hljws.m3u8
 
-10央视,#genre#
+2026央視,#genre#
 
 CCTV-4K超高清,https://burning-lilly-kk01xp-6e2f60ad.apps.mistral.run/live/cctv4k
 CCTV-8K超高清,https://burning-lilly-kk01xp-6e2f60ad.apps.mistral.run/live/cctv8k
@@ -173,7 +173,7 @@ CCTV风云剧场,https://burning-lilly-kk01xp-6e2f60ad.apps.mistral.run/live/cct
 CCTV第一剧场,https://burning-lilly-kk01xp-6e2f60ad.apps.mistral.run/live/cctvdiyijuchang
 CCTV怀旧剧场,https://burning-lilly-kk01xp-6e2f60ad.apps.mistral.run/live/cctvhuaijiujuchang
 
-10卫视,#genre#
+2026衛視,#genre#
 
 江苏卫视,https://burning-lilly-kk01xp-6e2f60ad.apps.mistral.run/live/jiangsuws
 浙江卫视,https://burning-lilly-kk01xp-6e2f60ad.apps.mistral.run/live/zhejiangws
