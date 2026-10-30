@@ -1,3 +1,7 @@
+wjecee/tv-go:latest
+3000
+/live.m3u
+
 wjecee/cctv-1080:latest
 3802
 /live.m3u
