@@ -211,49 +211,5 @@ QQ衛視,#genre#
 内蒙古卫视,https://regulatory-reindeer-qq01xp-e85b33af.apps.mistral.run/relay/ysp-nmgws.m3u8
 黑龙江卫视,https://regulatory-reindeer-qq01xp-e85b33af.apps.mistral.run/relay/ysp-hljws.m3u8
 
-水滸傳1-43,#genre#
 
-第1集 高俅發迹,https://www.youtube.com/watch?v=lnshzmF6sY4
-第2集 拳打鎮關西,https://www.youtube.com/watch?v=GQ4LixSHgeU
-第3集 大鬧五台山,https://www.youtube.com/watch?v=JSoUYvLFcBA
-第4集 倒拔垂杨柳,https://www.youtube.com/watch?v=h-zuP_6w6XI
-第5集 白虎節堂,https://www.youtube.com/watch?v=KHD-WS20wvc
-第6集 野豬林,https://www.youtube.com/watch?v=3mc7ojFZGLY
-第7集 風雪山神廟,https://www.youtube.com/watch?v=KVlwwMh9Etk
-第8集 林衝落草,https://www.youtube.com/watch?v=t_wq7D-V2i0
-第9集 楊志賣刀,https://www.youtube.com/watch?v=2gxst5lBIOc
-第10集 七星聚義,https://www.youtube.com/watch?v=5XLKfW6-r7w
-第11集 智取生辰綱,https://www.youtube.com/watch?v=6AdUZhVDm04
-第12集 私放晁天王,https://www.youtube.com/watch?v=G97YYbkG6qo
-第13集 火並王倫,https://www.youtube.com/watch?v=7a2xC6n8P7k
-第14集 宋江殺惜,https://www.youtube.com/watch?v=sK9AH1nSz8s
-第15集 景陽岡,https://www.youtube.com/watch?v=-8Ih-2u6LIc
-第16集 兄弟重逢,https://www.youtube.com/watch?v=bcBskysQvgo
-第17集 王婆弄風情,https://www.youtube.com/watch?v=W55ruKkeHZI
-第18集 武大郎捉奸,https://www.youtube.com/watch?v=qpwDoQp8WLY
-第19集 獅子樓,https://www.youtube.com/watch?v=RHLF5R-NPJI
-第20集 醉打蔣門神,https://www.youtube.com/watch?v=Oltjmm8l5EY
-第21集 血濺鴛鴦樓,https://www.youtube.com/watch?v=Pxen4qfOe70
-第22集 清風寨,https://www.youtube.com/watch?v=RpG_RxpRU2E
-第23集 發配江州,https://www.youtube.com/watch?v=FJ-AwGrMqeA
-第24集 浔陽樓題反詩,https://www.youtube.com/watch?v=-HIXChjoNNY
-第25集 鬧江州,https://www.youtube.com/watch?v=X0V6DtW6gus
-第26集 李逵背母,https://www.youtube.com/watch?v=ybqPbR7Hd94
-第27集 祝家莊 上,https://www.youtube.com/watch?v=dHOxRY4kjFQ
-第28集 祝家莊 下,https://www.youtube.com/watch?v=9MejTMC8Opc
-第29集 大破連環馬,https://www.youtube.com/watch?v=Ja7AexmUbWg
-第30集 曾頭市,https://www.youtube.com/watch?v=Whms5bwj2MA
-第31集 盧俊義上山,https://www.youtube.com/watch?v=GZSKcrXL8_c
-第32集 英雄排座次,https://www.youtube.com/watch?v=ACTUyeOtcSY
-第33集 元夜鬧東京,https://www.youtube.com/watch?v=l8_obRS7vs8
-第34集 燕青打擂,https://www.youtube.com/watch?v=Rv-akjPjFqI
-第35集 李逵坐堂,https://www.youtube.com/watch?v=ouIkQhYkK4k
-第36集 偷酒扯诏,https://www.youtube.com/watch?v=2inXpn62iGo
-第37集 大敗高太尉,https://www.youtube.com/watch?v=1-GulH1UKYw
-第38集 招安,https://www.youtube.com/watch?v=bCGCs4y9uPI
-第39集 血灑陳橋驿,https://www.youtube.com/watch?v=eszVKgXk6bY
-第40集 征方臘,https://www.youtube.com/watch?v=tyV6b9RL87wAQB
-第41集 魂系湧金門,https://www.youtube.com/watch?v=SR6rokgfipA
-第42集 血染烏龍嶺,https://www.youtube.com/watch?v=g1KX5Lc5epw
-第43集 宋江之死（大結局）,https://www.youtube.com/watch?v=MKVXdJCkczw
 	
