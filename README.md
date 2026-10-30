@@ -1,15 +1,13 @@
 wjecee/tv-go:latest
-3000
-/live.m3u
+
+3000    /live.m3u
+
 
 wjecee/cctv-1080:latest
-3802
-/live.m3u
+3802    /live.m3u
 
 akiralereal/iptv:latest
-1905   
-/txt
-
+1905   /txt
 
 catvod  https://t.me/zhiboziyuan_bot
 
