@@ -152,24 +152,4 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 广东卫视4K,http://192.187.124.34:81/live/gdws4k.m3u8
 深圳卫视4K,http://192.187.124.34:81/live/szws4k.m3u8
 
-720CCTV,#genre#
-CCTV-1,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv1/playlist.m3u8
-CCTV-2,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv2/playlist.m3u8
-CCTV-3,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv3/playlist.m3u8
-CCTV-4,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv4/playlist.m3u8
-CCTV-5,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv5/playlist.m3u8
-CCTV-5+,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv5p/playlist.m3u8
-CCTV-6,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv6/playlist.m3u8
-CCTV-7,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv7/playlist.m3u8
-CCTV-8,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv8/playlist.m3u8
-CCTV-9,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv9/playlist.m3u8
-CCTV-10,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv10/playlist.m3u8
-CCTV-11,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv11/playlist.m3u8
-CCTV-12,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv12/playlist.m3u8
-CCTV-13,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv13/playlist.m3u8
-CCTV-14,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv14/playlist.m3u8
-CCTV-15,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv15/playlist.m3u8
-CCTV-16,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv16/playlist.m3u8
-CCTV-17,http://unwilling-charlene-kk01xp-83295881.apps.mistral.run/cctv17/playlist.m3u8
-
 	
