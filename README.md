@@ -53,7 +53,7 @@ okHttp/Mod-1.5.0.0
 
 (垃圾群) juli直播源 https://t.me/tvzby
 
-(垃圾群) 聊天讨论群:   @GPT_858
+(垃圾群) 聊天讨论群:   https://t.me/GPT_858
 
 (垃圾群) 蝴蝶影視 https://t.me/tvshare23
 
