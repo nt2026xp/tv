@@ -127,10 +127,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 日本油管,#genre#
 
 TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
-関西24時間配信,https://www.youtube.com/watch?v=LJtlWB1LXjU
+関西24時間配信,https://www.youtube.com/watch?v=3Z7ZOgCT4SU
 メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
 北海道ニュース24,https://www.youtube.com/live/tvgbZZYS4Nk
-広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
+広島ニュース24,https://www.youtube.com/watch?v=JqV_MewrJfU
 日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
 
 北海道函館山,https://www.youtube.com/watch?v=s--MDmshT3I
