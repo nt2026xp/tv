@@ -41,8 +41,6 @@ okHttp/Mod-1.5.0.0
 
 (垃圾群) 大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
-(垃圾群) 智能電視盒子 https://t.me/meitu007
-
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
 (垃圾群) catvod https://t.me/www_catvod_com
