@@ -152,19 +152,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 广东卫视4K,http://192.187.124.34:81/live/gdws4k.m3u8
 深圳卫视4K,http://192.187.124.34:81/live/szws4k.m3u8
 
-大和拜金女1-11集,#genre#
-
-大和拜金女1,https://vip.dytt-network.com/20260104/9998_bec26f4a/index.m3u8
-大和拜金女2,https://vip.dytt-network.com/20260104/9999_fa246d02/index.m3u8
-大和拜金女3,https://vip.dytt-network.com/20260104/10000_b7a78274/index.m3u8
-大和拜金女4,https://vip.dytt-network.com/20260104/10001_d89f3a35/index.m3u8
-大和拜金女5,https://vip.dytt-network.com/20260104/10002_9103c8c8/index.m3u8
-大和拜金女6,https://vip.dytt-network.com/20260104/10003_f5dffc11/index.m3u8
-大和拜金女7,https://vip.dytt-network.com/20260104/10004_d783823c/index.m3u8
-大和拜金女8,https://vip.dytt-network.com/20260104/10005_6eb88712/index.m3u8
-大和拜金女9,https://vip.dytt-network.com/20260104/10006_19b1b73d/index.m3u8
-大和拜金女10,https://vip.dytt-network.com/20260104/10007_9cdf2656/index.m3u8
-大和拜金女11,https://vip.dytt-network.com/20260104/10009_483d8df8/index.m3u8
 
 美女或野獸1-11集,#genre#
 
