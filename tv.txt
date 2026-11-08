@@ -33,13 +33,6 @@ Hoy78資訊,https://fast.hidns.vip/163189/hoy78
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=6TsaEYaKueE
 
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-華視,rtmp://f13h.mine.nu/sat/tv111
-中視,rtmp://f13h.mine.nu/sat/tv091
-台視,rtmp://f13h.mine.nu/sat/tv071
-
 華視,http://211.23.95.147:18881/live/dtv18_h265.ts
 中視,http://211.23.95.147:18881/live/dtv1_h265.ts
 台視,http://211.23.95.147:18881/live/dtv14_h265.ts
@@ -141,32 +134,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 富士山忍野八海,https://www.youtube.com/watch?v=PxzwnWh1dKk
 
-4k,#genre#
-
-江苏卫视4K,http://192.187.124.34:81/live/jsws4k.m3u8
-浙江卫视4K,http://192.187.124.34:81/live/zjws4k.m3u8
-湖南卫视4K,http://192.187.124.34:81/live/hnws4k.m3u8
-东方卫视4K,http://192.187.124.34:81/live/dfws4k.m3u8
-四川卫视4K,http://192.187.124.34:81/live/scws4k.m3u8
-山东卫视4K,http://192.187.124.34:81/live/sdws4k.m3u8
-广东卫视4K,http://192.187.124.34:81/live/gdws4k.m3u8
-深圳卫视4K,http://192.187.124.34:81/live/szws4k.m3u8
-
-
-美女或野獸1-11集,#genre#
-
-美女或野獸1,https://vip.ffzyread2.com/20250826/43825_1a31856c/index.m3u8
-美女或野獸2,https://vip.ffzyread2.com/20250826/43826_3969214c/index.m3u8
-美女或野獸3,https://vip.ffzyread2.com/20250826/43827_a2db3a78/index.m3u8
-美女或野獸4,https://vip.ffzyread2.com/20250826/43828_e6483ae9/index.m3u8
-美女或野獸5,https://vip.ffzyread2.com/20250826/43829_fedc1c02/index.m3u8
-美女或野獸6,https://vip.ffzyread2.com/20250826/43830_95e00030/index.m3u8
-美女或野獸7,https://vip.ffzyread2.com/20250826/43831_bb51be7c/index.m3u8
-美女或野獸8,https://vip.ffzyread2.com/20250826/43832_1c3e364c/index.m3u8
-美女或野獸9,https://vip.ffzyread2.com/20250826/43833_80a9eda1/index.m3u8
-美女或野獸10,https://vip.ffzyread2.com/20250826/43834_e1b7d06e/index.m3u8
-美女或野獸11,https://vip.ffzyread2.com/20250826/43835_2020a33f/index.m3u8
-
 救命病棟24小時第1季,#genre#
 
 第01集,https://v.cdnlz19.com/20240327/24535_89531c9f/index.m3u8
@@ -229,5 +196,19 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 第51集,https://v.cdnlz19.com/20240327/24586_270a15f4/index.m3u8
 第52集,https://v.cdnlz19.com/20240327/24587_b2c61049/index.m3u8
 第53集,https://v.cdnlz19.com/20240327/24601_52a08351/index.m3u8
-	
+
+
+	美女或野獸1-11集,#genre#
+
+美女或野獸1,https://vip.ffzyread2.com/20250826/43825_1a31856c/index.m3u8
+美女或野獸2,https://vip.ffzyread2.com/20250826/43826_3969214c/index.m3u8
+美女或野獸3,https://vip.ffzyread2.com/20250826/43827_a2db3a78/index.m3u8
+美女或野獸4,https://vip.ffzyread2.com/20250826/43828_e6483ae9/index.m3u8
+美女或野獸5,https://vip.ffzyread2.com/20250826/43829_fedc1c02/index.m3u8
+美女或野獸6,https://vip.ffzyread2.com/20250826/43830_95e00030/index.m3u8
+美女或野獸7,https://vip.ffzyread2.com/20250826/43831_bb51be7c/index.m3u8
+美女或野獸8,https://vip.ffzyread2.com/20250826/43832_1c3e364c/index.m3u8
+美女或野獸9,https://vip.ffzyread2.com/20250826/43833_80a9eda1/index.m3u8
+美女或野獸10,https://vip.ffzyread2.com/20250826/43834_e1b7d06e/index.m3u8
+美女或野獸11,https://vip.ffzyread2.com/20250826/43835_2020a33f/index.m3u8
 
