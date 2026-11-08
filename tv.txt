@@ -152,7 +152,19 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 广东卫视4K,http://192.187.124.34:81/live/gdws4k.m3u8
 深圳卫视4K,http://192.187.124.34:81/live/szws4k.m3u8
 
+美女或野獸,#genre#
 
+美女或野獸1,https://vip.ffzyread2.com/20250826/43825_1a31856c/index.m3u8
+美女或野獸2,https://vip.ffzyread2.com/20250826/43826_3969214c/index.m3u8
+美女或野獸3,https://vip.ffzyread2.com/20250826/43827_a2db3a78/index.m3u8
+美女或野獸4,https://vip.ffzyread2.com/20250826/43828_e6483ae9/index.m3u8
+美女或野獸5,https://vip.ffzyread2.com/20250826/43829_fedc1c02/index.m3u8
+美女或野獸6,https://vip.ffzyread2.com/20250826/43830_95e00030/index.m3u8
+美女或野獸7,https://vip.ffzyread2.com/20250826/43831_bb51be7c/index.m3u8
+美女或野獸8,https://vip.ffzyread2.com/20250826/43832_1c3e364c/index.m3u8
+美女或野獸9,https://vip.ffzyread2.com/20250826/43833_80a9eda1/index.m3u8
+美女或野獸10,https://vip.ffzyread2.com/20250826/43834_e1b7d06e/index.m3u8
+美女或野獸11,https://vip.ffzyread2.com/20250826/43835_2020a33f/index.m3u8
 
 救命病棟24小時1-5季,#genre#
 
