@@ -177,7 +177,7 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 第35集,https://v.cdnlz19.com/20240327/24570_bb6c7837/index.m3u8
 第36集,https://v.cdnlz19.com/20240327/24573_5f00f8ae/index.m3u8
 
-救命病棟24小時第4-5季,#genre#
+救命病棟24小時第4季,#genre#
 
 第37集,https://v.cdnlz19.com/20240327/24575_d1b19e03/index.m3u8
 第38集,https://v.cdnlz19.com/20240327/24571_7e8d9333/index.m3u8
@@ -186,6 +186,9 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 第41集,https://v.cdnlz19.com/20240327/24579_9997045d/index.m3u8
 第42集,https://v.cdnlz19.com/20240327/24576_bbfe0ffe/index.m3u8
 第43集,https://v.cdnlz19.com/20240327/24577_3f98eed1/index.m3u8
+
+救命病棟24小時第5季,#genre#
+
 第44集,https://v.cdnlz19.com/20240327/24578_cb4ee6b6/index.m3u8
 第45集,https://v.cdnlz19.com/20240327/24581_aa6fe3aa/index.m3u8
 第46集,https://v.cdnlz19.com/20240327/24582_0d816b4f/index.m3u8
