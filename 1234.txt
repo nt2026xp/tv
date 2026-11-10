@@ -169,7 +169,7 @@ QQ衛視,#genre#
 内蒙古卫视,https://regulatory-reindeer-qq01xp-e85b33af.apps.mistral.run/relay/ysp-nmgws.m3u8
 黑龙江卫视,https://regulatory-reindeer-qq01xp-e85b33af.apps.mistral.run/relay/ysp-hljws.m3u8
 
-謝安琪央視,#genre#
+173央視,#genre#
 
 CCTV1综合,http://173.208.234.146/live/cctv1.m3u8
 CCTV2财经,http://173.208.234.146/live/cctv2.m3u8
@@ -190,7 +190,7 @@ CCTV15,http://173.208.234.146/live/cctv15.m3u8
 CCTV16,http://173.208.234.146/live/cctv16.m3u8
 CCTV17,http://173.208.234.146/live/cctv17.m3u8
 
-謝安琪衛視,#genre#
+173衛視,#genre#
 
 江苏卫视,https://live.abai.eu.org/relay/ysp-jsws.m3u8
 浙江卫视,https://live.abai.eu.org/relay/ysp-zjws.m3u8
