@@ -134,7 +134,7 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 富士山忍野八海,https://www.youtube.com/watch?v=PxzwnWh1dKk
 
-救命病棟第1季,#genre#
+救命病棟1-5,#genre#
 
 1-1,https://v.cdnlz19.com/20240327/24535_89531c9f/index.m3u8
 1-2,https://v.cdnlz19.com/20240327/24537_309217f2/index.m3u8
@@ -148,8 +148,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 1-10,https://v.cdnlz19.com/20240327/24544_66f5a91f/index.m3u8
 1-11,https://v.cdnlz19.com/20240327/24545_db147903/index.m3u8
 1-12,https://v.cdnlz19.com/20240327/24548_5c06aa93/index.m3u8
-
-救命病棟第2季,#genre#
 
 2-1,https://v.cdnlz19.com/20240327/24547_4fe6d203/index.m3u8
 2-2,https://v.cdnlz19.com/20240327/24549_2f060356/index.m3u8
@@ -165,8 +163,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 2-12,https://v.cdnlz19.com/20240327/24557_0dfb474d/index.m3u8
 2-13,https://v.cdnlz19.com/20240327/24561_f8fbdf09/index.m3u8
 
-救命病棟第3季,#genre#
-
 3-1,https://v.cdnlz19.com/20240327/24560_ebdc6a8d/index.m3u8
 3-2,https://v.cdnlz19.com/20240327/24563_8f163cf7/index.m3u8
 3-3,https://v.cdnlz19.com/20240327/24565_d1e7546e/index.m3u8
@@ -179,8 +175,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 3-10,https://v.cdnlz19.com/20240327/24570_bb6c7837/index.m3u8
 3-11,https://v.cdnlz19.com/20240327/24573_5f00f8ae/index.m3u8
 
-救命病棟第4季,#genre#
-
 4-1,https://v.cdnlz19.com/20240327/24575_d1b19e03/index.m3u8
 4-2,https://v.cdnlz19.com/20240327/24571_7e8d9333/index.m3u8
 4-3,https://v.cdnlz19.com/20240327/24574_6c6a0fdb/index.m3u8
@@ -188,8 +182,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 4-5,https://v.cdnlz19.com/20240327/24579_9997045d/index.m3u8
 4-6,https://v.cdnlz19.com/20240327/24576_bbfe0ffe/index.m3u8
 4-7,https://v.cdnlz19.com/20240327/24577_3f98eed1/index.m3u8
-
-救命病棟第5季,#genre#
 
 5-1,https://v.cdnlz19.com/20240327/24578_cb4ee6b6/index.m3u8
 5-2,https://v.cdnlz19.com/20240327/24581_aa6fe3aa/index.m3u8
