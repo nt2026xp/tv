@@ -135,22 +135,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 富士山忍野八海,https://www.youtube.com/watch?v=PxzwnWh1dKk
 
 
-
-大和拜金女1-11,#genre#
-
-大和拜金女1,https://vip.dytt-network.com/20260104/9998_bec26f4a/3000k/hls/mixed.m3u8
-大和拜金女2,https://vip.dytt-network.com/20260104/9999_fa246d02/3000k/hls/mixed.m3u8
-大和拜金女3,https://vip.dytt-network.com/20260104/10000_b7a78274/3000k/hls/mixed.m3u8
-大和拜金女4,https://vip.dytt-network.com/20260104/10001_d89f3a35/3000k/hls/mixed.m3u8
-大和拜金女5,https://vip.dytt-network.com/20260104/10002_9103c8c8/3000k/hls/mixed.m3u8
-大和拜金女6,https://vip.dytt-network.com/20260104/10003_f5dffc11/3000k/hls/mixed.m3u8
-大和拜金女7,https://vip.dytt-network.com/20260104/10004_d783823c/3000k/hls/mixed.m3u8
-大和拜金女8,https://vip.dytt-network.com/20260104/10005_6eb88712/3000k/hls/mixed.m3u8
-大和拜金女9,https://vip.dytt-network.com/20260104/10006_19b1b73d/3000k/hls/mixed.m3u8
-大和拜金女10,https://vip.dytt-network.com/20260104/10007_9cdf2656/3000k/hls/mixed.m3u8
-大和拜金女11,https://vip.dytt-network.com/20260104/10009_483d8df8/3000k/hls/mixed.m3u8
-
-
 美女或野獸1-11,#genre#
 
 美女或野獸1,https://vip.ffzyread2.com/20250826/43825_1a31856c/index.m3u8
