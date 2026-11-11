@@ -151,6 +151,22 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 大和拜金女11,https://vip.dytt-network.com/20260104/10009_483d8df8/3000k/hls/mixed.m3u8
 
 
+美女或野獸1-11集,#genre#
+
+美女或野獸1,https://vip.ffzyread2.com/20250826/43825_1a31856c/index.m3u8
+美女或野獸2,https://vip.ffzyread2.com/20250826/43826_3969214c/index.m3u8
+美女或野獸3,https://vip.ffzyread2.com/20250826/43827_a2db3a78/index.m3u8
+美女或野獸4,https://vip.ffzyread2.com/20250826/43828_e6483ae9/index.m3u8
+美女或野獸5,https://vip.ffzyread2.com/20250826/43829_fedc1c02/index.m3u8
+美女或野獸6,https://vip.ffzyread2.com/20250826/43830_95e00030/index.m3u8
+美女或野獸7,https://vip.ffzyread2.com/20250826/43831_bb51be7c/index.m3u8
+美女或野獸8,https://vip.ffzyread2.com/20250826/43832_1c3e364c/index.m3u8
+美女或野獸9,https://vip.ffzyread2.com/20250826/43833_80a9eda1/index.m3u8
+美女或野獸10,https://vip.ffzyread2.com/20250826/43834_e1b7d06e/index.m3u8
+美女或野獸11,https://vip.ffzyread2.com/20250826/43835_2020a33f/index.m3u8
+
+
+
 救命病棟1-5,#genre#
 
 1-1,https://v.cdnlz19.com/20240327/24535_89531c9f/index.m3u8
@@ -211,18 +227,4 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 5-9,https://v.cdnlz19.com/20240327/24587_b2c61049/index.m3u8
 5-10,https://v.cdnlz19.com/20240327/24601_52a08351/index.m3u8
 
-
-美女或野獸1-11集,#genre#
-
-美女或野獸1,https://vip.ffzyread2.com/20250826/43825_1a31856c/index.m3u8
-美女或野獸2,https://vip.ffzyread2.com/20250826/43826_3969214c/index.m3u8
-美女或野獸3,https://vip.ffzyread2.com/20250826/43827_a2db3a78/index.m3u8
-美女或野獸4,https://vip.ffzyread2.com/20250826/43828_e6483ae9/index.m3u8
-美女或野獸5,https://vip.ffzyread2.com/20250826/43829_fedc1c02/index.m3u8
-美女或野獸6,https://vip.ffzyread2.com/20250826/43830_95e00030/index.m3u8
-美女或野獸7,https://vip.ffzyread2.com/20250826/43831_bb51be7c/index.m3u8
-美女或野獸8,https://vip.ffzyread2.com/20250826/43832_1c3e364c/index.m3u8
-美女或野獸9,https://vip.ffzyread2.com/20250826/43833_80a9eda1/index.m3u8
-美女或野獸10,https://vip.ffzyread2.com/20250826/43834_e1b7d06e/index.m3u8
-美女或野獸11,https://vip.ffzyread2.com/20250826/43835_2020a33f/index.m3u8
 
