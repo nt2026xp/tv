@@ -33,13 +33,7 @@ okHttp/Mod-1.5.0.0
 
 (垃圾群) FM影視 https://t.me/fongmi_official
 
-(垃圾群) 海豚py研究所 https://t.me/hshsjk9
-
-(垃圾群) 极致播放器交流群 https://t.me/jizhi00
-
 (垃圾群) 肥羊影音数码综合分享 https://t.me/feiyangdigital
-
-(垃圾群) 大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
@@ -50,10 +44,6 @@ okHttp/Mod-1.5.0.0
 (垃圾群) pixman群 https://t.me/pixman_io
 
 (垃圾群)IPTV直播源总部 https://t.me/iptvofficalgroup
-
-(垃圾群) juli直播源 https://t.me/tvzby
-
-(垃圾群) 聊天讨论群:   https://t.me/GPT_858
 
 (垃圾群) 蝴蝶影視 https://t.me/tvshare23
 
@@ -74,8 +64,6 @@ tmxk 频道 https://t.me/tmxktg
 安卓免費破解 https://t.me/pojieshare
 
 影視軟件安裝大全 https://t.me/tvboxjk
-
-極致 https://t.me/jizhi111
 
 ok影視 https://t.me/tvb_ys
 
