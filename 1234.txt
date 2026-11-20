@@ -13,6 +13,51 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 華視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 中視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 
+
+翡翠台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jade.flv
+无线新闻台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
+中天新闻台,http://128.14.206.166/pull-f5-mptcp.flive.douyincdn.com/live/ztxw.flv
+寰宇新闻台,http://128.14.206.166/pull-f5-mptcp.flive.douyincdn.com/live/hyxw.flv
+CM+,http://128.14.206.166/pull-f5-mptcp.flive.douyincdn.com/live/cmt156.flv
+曼迪日本台,http://everydaytv.top/test/push.php?id=twmandiribentai
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=19
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+RHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
+明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVB剧集,http://iptv.4666888.xyz/iptv2A.php?id=33
+黄金华剧台,http://iptv.4666888.xyz/iptv2A.php?id=34
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+寰宇财经,http://iptv.4666888.xyz/iptv2A.php?id=42
+TVB Plus,http://cdn3.indevs.in/stream/tvb/tvbp/
+TVB明珠台,http://cdn3.indevs.in/stream/tvb/mzt/
+TVB星河,http://cdn3.indevs.in/stream/live/tvbxh/
+Astro AEC,http://cdn3.indevs.in/stream/live/aec/
+Astro欢喜台,http://cdn3.indevs.in/stream/live/hxt/
+iQIYI,http://cdn3.indevs.in/stream/live/iqiyi/
+天映频道,http://cdn3.indevs.in/stream/live/typd/
+天映经典,http://cdn3.indevs.in/stream/live/ccm/
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
+CHC影迷电影,http://198.204.228.26/live/chchd.m3u8
+CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
+重温经典,http://198.204.228.26/live/cwjd.m3u8
+成龙电影,http://192.151.150.154/live/lbcl.m3u8
+周润发电影,http://192.151.150.154/live/lbzrf.m3u8
+周星驰电影,http://192.151.150.154/live/lbzxc.m3u8
+林正英影院,http://192.151.150.154/live/lblzy.m3u8
+
+
 38央視,#genre#
 
 CCTV-4K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
